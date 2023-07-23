@@ -1,0 +1,666 @@
+name,team,playingRole,battingStyle,bowlingStyle
+Tom Latham,New Zealand,Wicketkeeper Batter,Left hand Bat,Right arm Medium
+Devon Conway,New Zealand,Wicketkeeper Batter,Left hand Bat,Right arm Medium
+Kane Williamson,New Zealand,Top order Batter,Right hand Bat,Right arm Offbreak
+Henry Nicholls,New Zealand,Top order Batter,Left hand Bat,Right arm Offbreak
+Daryl Mitchell,New Zealand,Allrounder,Moose,Right hand Bat
+Tom Blundell,New Zealand,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak
+Michael Bracewell,New Zealand,Batting Allrounder,Left hand Bat,Right arm Offbreak
+Ish Sodhi,New Zealand,Bowler,Right hand Bat,Legbreak
+Tim Southee,New Zealand,Bowler,Right hand Bat,Right arm Medium fast
+Matt Henry,New Zealand,Bowler,Right hand Bat,Right arm Fast medium
+Ajaz Patel,New Zealand,Bowler,Left hand Bat,Slow Left arm Orthodox
+Abdullah Shafique,Pakistan,Top order Batter,Right hand Bat,Right arm Offbreak
+Imam-ul-Haq,Pakistan,Top order Batter,Left hand Bat,Top order Batter
+Shan Masood,Pakistan,Opening Batter,Shaan Masood,Shaani
+Babar Azam,Pakistan,Batter,Right hand Bat,Right arm Offbreak
+Saud Shakeel,Pakistan,Middle order Batter,Saud Shakil,Left hand Bat
+Sarfaraz Ahmed,Pakistan,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak
+Agha Salman,Pakistan,Allrounder,Right hand Bat,Right arm Offbreak
+Hasan Ali,Pakistan,Bowler,Right hand Bat,Right arm Medium fast
+Naseem Shah,Pakistan,Bowler,Right hand Bat,Right arm Fast
+Mir Hamza,Pakistan,Bowler,Left hand Bat,Left arm Medium
+Abrar Ahmed,Pakistan,Bowler,Right hand Bat,Legbreak Googly
+Mir Hamza,Pakistan,Bowler,Left hand Bat,Left arm Medium
+Naseem Shah,Pakistan,Bowler,Right hand Bat,Right arm Fast
+Hasan Ali,Pakistan,Bowler,Right hand Bat,Right arm Medium fast
+Abrar Ahmed,Pakistan,Bowler,Right hand Bat,Legbreak Googly
+Agha Salman,Pakistan,Allrounder,Right hand Bat,Right arm Offbreak
+Tim Southee,New Zealand,Bowler,Right hand Bat,Right arm Medium fast
+Matt Henry,New Zealand,Bowler,Right hand Bat,Right arm Fast medium
+Ajaz Patel,New Zealand,Bowler,Left hand Bat,Slow Left arm Orthodox
+Michael Bracewell,New Zealand,Batting Allrounder,Left hand Bat,Right arm Offbreak
+Ish Sodhi,New Zealand,Bowler,Right hand Bat,Legbreak
+Daryl Mitchell,New Zealand,Allrounder,Moose,Right hand Bat
+Usman Khawaja,Australia,Top order Batter,Usie,Left hand Bat
+David Warner,Australia,Opening Batter,Lloyd,Left hand Bat
+Marnus Labuschagne,Australia,Batting Allrounder,Right hand Bat,Legbreak
+Steven Smith,Australia,Middle order Batter,Steve Smith,Right hand Bat
+Travis Head,Australia,Middle order Batter,Left hand Bat,Right arm Offbreak
+Matt Renshaw,Australia,Batter,Left hand Bat,Right arm Offbreak
+Dean Elgar,South Africa,Opening Batter,Left hand Bat,Slow Left arm Orthodox
+Sarel Erwee,South Africa,Opening Batter,Left hand Bat,Right arm Offbreak
+Heinrich Klaasen,South Africa,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak
+Temba Bavuma,South Africa,Middle order Batter,Right hand Bat,Right arm Medium
+Khaya Zondo,South Africa,Batter,Right hand Bat,Right arm Offbreak
+Kyle Verreynne,South Africa,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak
+Marco Jansen,South Africa,Bowling Allrounder,Right hand Bat,Left arm Medium fast
+Simon Harmer,South Africa,Bowler,Right hand Bat,Right arm Offbreak
+Keshav Maharaj,South Africa,Bowler,Right hand Bat,Slow Left arm Orthodox
+Kagiso Rabada,South Africa,Bowler,Left hand Bat,Right arm Fast
+Anrich Nortje,South Africa,Bowler,Right hand Bat,Right arm Fast
+Kagiso Rabada,South Africa,Bowler,Left hand Bat,Right arm Fast
+Anrich Nortje,South Africa,Bowler,Right hand Bat,Right arm Fast
+Marco Jansen,South Africa,Bowling Allrounder,Right hand Bat,Left arm Medium fast
+Keshav Maharaj,South Africa,Bowler,Right hand Bat,Slow Left arm Orthodox
+Simon Harmer,South Africa,Bowler,Right hand Bat,Right arm Offbreak
+Josh Hazlewood,Australia,Bowler,Left hand Bat,Right arm Fast medium
+Pat Cummins,Australia,Bowler,Cummo,Right hand Bat
+Nathan Lyon,Australia,Bowler,Right hand Bat,Right arm Offbreak
+Ashton Agar,Australia,Bowler,Left hand Bat,Slow Left arm Orthodox
+Travis Head,Australia,Middle order Batter,Left hand Bat,Right arm Offbreak
+Steven Smith,Australia,Middle order Batter,Steve Smith,Right hand Bat
+Kraigg Brathwaite,West Indies,Opening Batter,BoBo,Right hand Bat
+Tagenarine Chanderpaul,West Indies,Opening Batter,Left hand Bat,Legbreak
+Kyle Mayers,West Indies,Batting Allrounder,Left hand Bat,Right arm Medium
+Raymon Reifer,West Indies,Allrounder,Left hand Bat,Left arm Medium fast
+Jermaine Blackwood,West Indies,Middle order Batter,Right hand Bat,Right arm Offbreak
+Roston Chase,West Indies,Allrounder,Right hand Bat,Right arm Offbreak
+Jason Holder,West Indies,Bowling Allrounder,Right hand Bat,Right arm Medium fast
+Joshua Da Silva,West Indies,Wicketkeeper Batter,Josh,Right hand Bat
+Innocent Kaia,Zimbabwe,Opening Batter,Right hand Bat,Legbreak
+Tanunurwa Makoni,Zimbabwe,Opening Batter,Right hand Bat,Right arm Medium
+Chamu Chibhabha,Zimbabwe,Top order Batter,Cham,Right hand Bat
+Craig Ervine,Zimbabwe,Middle order Batter,Left hand Bat,Right arm Offbreak
+Gary Ballance,Zimbabwe,Middle order Batter,Gazza,Left hand Bat
+Tafadzwa Tsiga,Zimbabwe,Wicketkeeper Batter,Right hand Bat,Right arm Medium
+Brad Evans,Zimbabwe,Allrounder,Right hand Bat,Right arm Fast
+Wellington Masakadza,Zimbabwe,Bowler,Left hand Bat,Slow Left arm Orthodox
+Brandon Mavuta,Zimbabwe,Allrounder,Right hand Bat,Legbreak
+Victor Nyauchi,Zimbabwe,Bowler,Right hand Bat,Right arm Fast medium
+Richard Ngarava,Zimbabwe,Bowler,Left hand Bat,Left arm Fast medium
+Richard Ngarava,Zimbabwe,Bowler,Left hand Bat,Left arm Fast medium
+Victor Nyauchi,Zimbabwe,Bowler,Right hand Bat,Right arm Fast medium
+Brad Evans,Zimbabwe,Allrounder,Right hand Bat,Right arm Fast
+Wellington Masakadza,Zimbabwe,Bowler,Left hand Bat,Slow Left arm Orthodox
+Brandon Mavuta,Zimbabwe,Allrounder,Right hand Bat,Legbreak
+Kemar Roach,West Indies,Bowler,Right hand Bat,Right arm Fast medium
+Alzarri Joseph,West Indies,Bowler,Right hand Bat,Right arm Fast
+Kyle Mayers,West Indies,Batting Allrounder,Left hand Bat,Right arm Medium
+Gudakesh Motie,West Indies,Bowler,Motie-Kanhai,Left hand Bat
+Jason Holder,West Indies,Bowling Allrounder,Right hand Bat,Right arm Medium fast
+Roston Chase,West Indies,Allrounder,Right hand Bat,Right arm Offbreak
+Kraigg Brathwaite,West Indies,Opening Batter,BoBo,Right hand Bat
+Raymon Reifer,West Indies,Allrounder,Left hand Bat,Left arm Medium fast
+Jermaine Blackwood,West Indies,Middle order Batter,Right hand Bat,Right arm Offbreak
+David Warner,Australia,Opening Batter,Lloyd,Left hand Bat
+Usman Khawaja,Australia,Top order Batter,Usie,Left hand Bat
+Marnus Labuschagne,Australia,Batting Allrounder,Right hand Bat,Legbreak
+Steven Smith,Australia,Middle order Batter,Steve Smith,Right hand Bat
+Matt Renshaw,Australia,Batter,Left hand Bat,Right arm Offbreak
+Peter Handscomb,Australia,Batter,Right hand Bat,Wicketkeeper
+Alex Carey,Australia,Wicketkeeper Batter,Left hand Bat,Wicketkeeper
+Pat Cummins,Australia,Bowler,Cummo,Right hand Bat
+Todd Murphy,Australia,Bowler,Left hand Bat,Right arm Offbreak
+Nathan Lyon,Australia,Bowler,Right hand Bat,Right arm Offbreak
+Scott Boland,Australia,Bowler,Right hand Bat,Right arm Fast medium
+Rohit Sharma,India,Top order Batter,Right hand Bat,Right arm Offbreak
+KL Rahul,India,Wicketkeeper Batter,Right hand Bat,Wicketkeeper
+Ravichandran Ashwin,India,Bowling Allrounder,Right hand Bat,Right arm Offbreak
+Cheteshwar Pujara,India,Top order Batter,Right hand Bat,Legbreak
+Virat Kohli,India,Top order Batter,Right hand Bat,Right arm Medium
+Suryakumar Yadav,India,Batter,Right hand Bat,"Right arm Medium, Right arm Offbreak"
+Ravindra Jadeja,India,Allrounder,Left hand Bat,Slow Left arm Orthodox
+Srikar Bharat,India,Wicketkeeper Batter,Right hand Bat,Wicketkeeper
+Axar Patel,India,Bowling Allrounder,Akshar Patel,Left hand Bat
+Mohammed Shami,India,Bowler,Right hand Bat,Right arm Fast
+Mohammed Siraj,India,Bowler,Right hand Bat,Right arm Fast
+Mohammed Shami,India,Bowler,Right hand Bat,Right arm Fast
+Mohammed Siraj,India,Bowler,Right hand Bat,Right arm Fast
+Ravindra Jadeja,India,Allrounder,Left hand Bat,Slow Left arm Orthodox
+Axar Patel,India,Bowling Allrounder,Akshar Patel,Left hand Bat
+Ravichandran Ashwin,India,Bowling Allrounder,Right hand Bat,Right arm Offbreak
+Pat Cummins,Australia,Bowler,Cummo,Right hand Bat
+Scott Boland,Australia,Bowler,Right hand Bat,Right arm Fast medium
+Nathan Lyon,Australia,Bowler,Right hand Bat,Right arm Offbreak
+Todd Murphy,Australia,Bowler,Left hand Bat,Right arm Offbreak
+Marnus Labuschagne,Australia,Batting Allrounder,Right hand Bat,Legbreak
+Matt Renshaw,Australia,Batter,Left hand Bat,Right arm Offbreak
+Tanunurwa Makoni,Zimbabwe,Opening Batter,Right hand Bat,Right arm Medium
+Innocent Kaia,Zimbabwe,Opening Batter,Right hand Bat,Legbreak
+Chamu Chibhabha,Zimbabwe,Top order Batter,Cham,Right hand Bat
+Craig Ervine,Zimbabwe,Middle order Batter,Left hand Bat,Right arm Offbreak
+Milton Shumba,Zimbabwe,Top order Batter,Left hand Bat,Slow Left arm Orthodox
+Tafadzwa Tsiga,Zimbabwe,Wicketkeeper Batter,Right hand Bat,Right arm Medium
+Donald Tiripano,Zimbabwe,Bowler,Right hand Bat,Right arm Fast medium
+Wellington Masakadza,Zimbabwe,Bowler,Left hand Bat,Slow Left arm Orthodox
+Brandon Mavuta,Zimbabwe,Allrounder,Right hand Bat,Legbreak
+Victor Nyauchi,Zimbabwe,Bowler,Right hand Bat,Right arm Fast medium
+Tanaka Chivanga,Zimbabwe,Bowler,Right hand Bat,Right arm Fast
+Kraigg Brathwaite,West Indies,Opening Batter,BoBo,Right hand Bat
+Tagenarine Chanderpaul,West Indies,Opening Batter,Left hand Bat,Legbreak
+Raymon Reifer,West Indies,Allrounder,Left hand Bat,Left arm Medium fast
+Jermaine Blackwood,West Indies,Middle order Batter,Right hand Bat,Right arm Offbreak
+Kyle Mayers,West Indies,Batting Allrounder,Left hand Bat,Right arm Medium
+Roston Chase,West Indies,Allrounder,Right hand Bat,Right arm Offbreak
+Joshua Da Silva,West Indies,Wicketkeeper Batter,Josh,Right hand Bat
+Jason Holder,West Indies,Bowling Allrounder,Right hand Bat,Right arm Medium fast
+Alzarri Joseph,West Indies,Bowler,Right hand Bat,Right arm Fast
+Gudakesh Motie,West Indies,Bowler,Motie-Kanhai,Left hand Bat
+Shannon Gabriel,West Indies,Bowler,Right hand Bat,Right arm Fast
+Alzarri Joseph,West Indies,Bowler,Right hand Bat,Right arm Fast
+Shannon Gabriel,West Indies,Bowler,Right hand Bat,Right arm Fast
+Jason Holder,West Indies,Bowling Allrounder,Right hand Bat,Right arm Medium fast
+Gudakesh Motie,West Indies,Bowler,Motie-Kanhai,Left hand Bat
+Roston Chase,West Indies,Allrounder,Right hand Bat,Right arm Offbreak
+Victor Nyauchi,Zimbabwe,Bowler,Right hand Bat,Right arm Fast medium
+Wellington Masakadza,Zimbabwe,Bowler,Left hand Bat,Slow Left arm Orthodox
+Tanaka Chivanga,Zimbabwe,Bowler,Right hand Bat,Right arm Fast
+Donald Tiripano,Zimbabwe,Bowler,Right hand Bat,Right arm Fast medium
+Brandon Mavuta,Zimbabwe,Allrounder,Right hand Bat,Legbreak
+Milton Shumba,Zimbabwe,Top order Batter,Left hand Bat,Slow Left arm Orthodox
+Zak Crawley,England,Top order Batter,Right hand Bat,Right arm Offbreak
+Ben Duckett,England,Top order Batter,Left hand Bat,Right arm Offbreak
+Ollie Pope,England,Middle order Batter,Right hand Bat,Wicketkeeper
+Joe Root,England,Top order Batter,Right hand Bat,"Right arm Offbreak, Legbreak"
+Harry Brook,England,Batter,Right hand Bat,Right arm Medium
+Ben Stokes,England,Allrounder,Left hand Bat,Right arm Fast medium
+Ben Foakes,England,Wicketkeeper Batter,Right hand Bat,Wicketkeeper
+Stuart Broad,England,Bowler,Broady,Left hand Bat
+Ollie Robinson,England,Bowler,Right hand Bat,Right arm Medium fast
+Jack Leach,England,Bowler,"Leachy, Nut",Left hand Bat
+Tom Latham,New Zealand,Wicketkeeper Batter,Left hand Bat,Right arm Medium
+Devon Conway,New Zealand,Wicketkeeper Batter,Left hand Bat,Right arm Medium
+Kane Williamson,New Zealand,Top order Batter,Right hand Bat,Right arm Offbreak
+Henry Nicholls,New Zealand,Top order Batter,Left hand Bat,Right arm Offbreak
+Neil Wagner,New Zealand,Bowler,Left hand Bat,Left arm Medium fast
+Daryl Mitchell,New Zealand,Allrounder,Moose,Right hand Bat
+Tom Blundell,New Zealand,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak
+Michael Bracewell,New Zealand,Batting Allrounder,Left hand Bat,Right arm Offbreak
+Scott Kuggeleijn,New Zealand,Bowling Allrounder,Right hand Bat,Right arm Fast medium
+Tim Southee,New Zealand,Bowler,Right hand Bat,Right arm Medium fast
+Blair Tickner,New Zealand,Bowler,Right hand Bat,Right arm Medium fast
+Tim Southee,New Zealand,Bowler,Right hand Bat,Right arm Medium fast
+Neil Wagner,New Zealand,Bowler,Left hand Bat,Left arm Medium fast
+Blair Tickner,New Zealand,Bowler,Right hand Bat,Right arm Medium fast
+Scott Kuggeleijn,New Zealand,Bowling Allrounder,Right hand Bat,Right arm Fast medium
+Michael Bracewell,New Zealand,Batting Allrounder,Left hand Bat,Right arm Offbreak
+James Anderson,England,Bowler,Jimmy,Left hand Bat
+Stuart Broad,England,Bowler,Broady,Left hand Bat
+Ollie Robinson,England,Bowler,Right hand Bat,Right arm Medium fast
+Jack Leach,England,Bowler,"Leachy, Nut",Left hand Bat
+Joe Root,England,Top order Batter,Right hand Bat,"Right arm Offbreak, Legbreak"
+Ben Stokes,England,Allrounder,Left hand Bat,Right arm Fast medium
+David Warner,Australia,Opening Batter,Lloyd,Left hand Bat
+Usman Khawaja,Australia,Top order Batter,Usie,Left hand Bat
+Marnus Labuschagne,Australia,Batting Allrounder,Right hand Bat,Legbreak
+Steven Smith,Australia,Middle order Batter,Steve Smith,Right hand Bat
+Travis Head,Australia,Middle order Batter,Left hand Bat,Right arm Offbreak
+Peter Handscomb,Australia,Batter,Right hand Bat,Wicketkeeper
+Alex Carey,Australia,Wicketkeeper Batter,Left hand Bat,Wicketkeeper
+Pat Cummins,Australia,Bowler,Cummo,Right hand Bat
+Todd Murphy,Australia,Bowler,Left hand Bat,Right arm Offbreak
+Nathan Lyon,Australia,Bowler,Right hand Bat,Right arm Offbreak
+Matthew Kuhnemann,Australia,Bowler,Left hand Bat,Slow Left arm Orthodox
+Rohit Sharma,India,Top order Batter,Right hand Bat,Right arm Offbreak
+KL Rahul,India,Wicketkeeper Batter,Right hand Bat,Wicketkeeper
+Cheteshwar Pujara,India,Top order Batter,Right hand Bat,Legbreak
+Virat Kohli,India,Top order Batter,Right hand Bat,Right arm Medium
+Shreyas Iyer,India,Top order Batter,Right hand Bat,"Right arm Offbreak, Legbreak Googly"
+Ravindra Jadeja,India,Allrounder,Left hand Bat,Slow Left arm Orthodox
+Srikar Bharat,India,Wicketkeeper Batter,Right hand Bat,Wicketkeeper
+Axar Patel,India,Bowling Allrounder,Akshar Patel,Left hand Bat
+Ravichandran Ashwin,India,Bowling Allrounder,Right hand Bat,Right arm Offbreak
+Mohammed Shami,India,Bowler,Right hand Bat,Right arm Fast
+Mohammed Siraj,India,Bowler,Right hand Bat,Right arm Fast
+Mohammed Shami,India,Bowler,Right hand Bat,Right arm Fast
+Mohammed Siraj,India,Bowler,Right hand Bat,Right arm Fast
+Ravichandran Ashwin,India,Bowling Allrounder,Right hand Bat,Right arm Offbreak
+Ravindra Jadeja,India,Allrounder,Left hand Bat,Slow Left arm Orthodox
+Axar Patel,India,Bowling Allrounder,Akshar Patel,Left hand Bat
+Pat Cummins,Australia,Bowler,Cummo,Right hand Bat
+Matthew Kuhnemann,Australia,Bowler,Left hand Bat,Slow Left arm Orthodox
+Nathan Lyon,Australia,Bowler,Right hand Bat,Right arm Offbreak
+Todd Murphy,Australia,Bowler,Left hand Bat,Right arm Offbreak
+Travis Head,Australia,Middle order Batter,Left hand Bat,Right arm Offbreak
+Zak Crawley,England,Top order Batter,Right hand Bat,Right arm Offbreak
+Ben Duckett,England,Top order Batter,Left hand Bat,Right arm Offbreak
+Ollie Pope,England,Middle order Batter,Right hand Bat,Wicketkeeper
+Joe Root,England,Top order Batter,Right hand Bat,"Right arm Offbreak, Legbreak"
+Harry Brook,England,Batter,Right hand Bat,Right arm Medium
+Ben Stokes,England,Allrounder,Left hand Bat,Right arm Fast medium
+Ben Foakes,England,Wicketkeeper Batter,Right hand Bat,Wicketkeeper
+Stuart Broad,England,Bowler,Broady,Left hand Bat
+Ollie Robinson,England,Bowler,Right hand Bat,Right arm Medium fast
+Jack Leach,England,Bowler,"Leachy, Nut",Left hand Bat
+Tom Latham,New Zealand,Wicketkeeper Batter,Left hand Bat,Right arm Medium
+Devon Conway,New Zealand,Wicketkeeper Batter,Left hand Bat,Right arm Medium
+Kane Williamson,New Zealand,Top order Batter,Right hand Bat,Right arm Offbreak
+Will Young,New Zealand,Top order Batter,Right hand Bat,Right arm Offbreak
+Henry Nicholls,New Zealand,Top order Batter,Left hand Bat,Right arm Offbreak
+Daryl Mitchell,New Zealand,Allrounder,Moose,Right hand Bat
+Tom Blundell,New Zealand,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak
+Michael Bracewell,New Zealand,Batting Allrounder,Left hand Bat,Right arm Offbreak
+Tim Southee,New Zealand,Bowler,Right hand Bat,Right arm Medium fast
+Matt Henry,New Zealand,Bowler,Right hand Bat,Right arm Fast medium
+Neil Wagner,New Zealand,Bowler,Left hand Bat,Left arm Medium fast
+Tim Southee,New Zealand,Bowler,Right hand Bat,Right arm Medium fast
+Matt Henry,New Zealand,Bowler,Right hand Bat,Right arm Fast medium
+Daryl Mitchell,New Zealand,Allrounder,Moose,Right hand Bat
+Neil Wagner,New Zealand,Bowler,Left hand Bat,Left arm Medium fast
+Michael Bracewell,New Zealand,Batting Allrounder,Left hand Bat,Right arm Offbreak
+James Anderson,England,Bowler,Jimmy,Left hand Bat
+Stuart Broad,England,Bowler,Broady,Left hand Bat
+Ollie Robinson,England,Bowler,Right hand Bat,Right arm Medium fast
+Jack Leach,England,Bowler,"Leachy, Nut",Left hand Bat
+Dean Elgar,South Africa,Opening Batter,Left hand Bat,Slow Left arm Orthodox
+Aiden Markram,South Africa,Opening Batter,Right hand Bat,Right arm Offbreak
+Tony de Zorzi,South Africa,Top order Batter,Left hand Bat,Right arm Offbreak
+Temba Bavuma,South Africa,Middle order Batter,Right hand Bat,Right arm Medium
+Keegan Petersen,South Africa,Top order Batter,Right hand Bat,Legbreak
+Heinrich Klaasen,South Africa,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak
+Senuran Muthusamy,South Africa,Batting Allrounder,Sen,Left hand Bat
+Marco Jansen,South Africa,Bowling Allrounder,Right hand Bat,Left arm Medium fast
+Kagiso Rabada,South Africa,Bowler,Left hand Bat,Right arm Fast
+Gerald Coetzee,South Africa,Bowler,Right hand Bat,Right arm Fast
+Anrich Nortje,South Africa,Bowler,Right hand Bat,Right arm Fast
+Kraigg Brathwaite,West Indies,Opening Batter,BoBo,Right hand Bat
+Tagenarine Chanderpaul,West Indies,Opening Batter,Left hand Bat,Legbreak
+Raymon Reifer,West Indies,Allrounder,Left hand Bat,Left arm Medium fast
+Jermaine Blackwood,West Indies,Middle order Batter,Right hand Bat,Right arm Offbreak
+Roston Chase,West Indies,Allrounder,Right hand Bat,Right arm Offbreak
+Kyle Mayers,West Indies,Batting Allrounder,Left hand Bat,Right arm Medium
+Joshua Da Silva,West Indies,Wicketkeeper Batter,Josh,Right hand Bat
+Jason Holder,West Indies,Bowling Allrounder,Right hand Bat,Right arm Medium fast
+Alzarri Joseph,West Indies,Bowler,Right hand Bat,Right arm Fast
+Kemar Roach,West Indies,Bowler,Right hand Bat,Right arm Fast medium
+Shannon Gabriel,West Indies,Bowler,Right hand Bat,Right arm Fast
+Kemar Roach,West Indies,Bowler,Right hand Bat,Right arm Fast medium
+Alzarri Joseph,West Indies,Bowler,Right hand Bat,Right arm Fast
+Kyle Mayers,West Indies,Batting Allrounder,Left hand Bat,Right arm Medium
+Shannon Gabriel,West Indies,Bowler,Right hand Bat,Right arm Fast
+Jason Holder,West Indies,Bowling Allrounder,Right hand Bat,Right arm Medium fast
+Roston Chase,West Indies,Allrounder,Right hand Bat,Right arm Offbreak
+Jermaine Blackwood,West Indies,Middle order Batter,Right hand Bat,Right arm Offbreak
+Kagiso Rabada,South Africa,Bowler,Left hand Bat,Right arm Fast
+Marco Jansen,South Africa,Bowling Allrounder,Right hand Bat,Left arm Medium fast
+Anrich Nortje,South Africa,Bowler,Right hand Bat,Right arm Fast
+Gerald Coetzee,South Africa,Bowler,Right hand Bat,Right arm Fast
+Senuran Muthusamy,South Africa,Batting Allrounder,Sen,Left hand Bat
+Rohit Sharma,India,Top order Batter,Right hand Bat,Right arm Offbreak
+Shubman Gill,India,Opening Batter,Right hand Bat,Right arm Offbreak
+Cheteshwar Pujara,India,Top order Batter,Right hand Bat,Legbreak
+Virat Kohli,India,Top order Batter,Right hand Bat,Right arm Medium
+Ravindra Jadeja,India,Allrounder,Left hand Bat,Slow Left arm Orthodox
+Shreyas Iyer,India,Top order Batter,Right hand Bat,"Right arm Offbreak, Legbreak Googly"
+Srikar Bharat,India,Wicketkeeper Batter,Right hand Bat,Wicketkeeper
+Axar Patel,India,Bowling Allrounder,Akshar Patel,Left hand Bat
+Ravichandran Ashwin,India,Bowling Allrounder,Right hand Bat,Right arm Offbreak
+Umesh Yadav,India,Bowler,Right hand Bat,Right arm Fast
+Mohammed Siraj,India,Bowler,Right hand Bat,Right arm Fast
+Travis Head,Australia,Middle order Batter,Left hand Bat,Right arm Offbreak
+Usman Khawaja,Australia,Top order Batter,Usie,Left hand Bat
+Marnus Labuschagne,Australia,Batting Allrounder,Right hand Bat,Legbreak
+Steven Smith,Australia,Middle order Batter,Steve Smith,Right hand Bat
+Peter Handscomb,Australia,Batter,Right hand Bat,Wicketkeeper
+Cameron Green,Australia,Batting Allrounder,Right hand Bat,Right arm Fast medium
+Alex Carey,Australia,Wicketkeeper Batter,Left hand Bat,Wicketkeeper
+Mitchell Starc,Australia,Bowler,Left hand Bat,Left arm Fast
+Nathan Lyon,Australia,Bowler,Right hand Bat,Right arm Offbreak
+Todd Murphy,Australia,Bowler,Left hand Bat,Right arm Offbreak
+Matthew Kuhnemann,Australia,Bowler,Left hand Bat,Slow Left arm Orthodox
+Mitchell Starc,Australia,Bowler,Left hand Bat,Left arm Fast
+Cameron Green,Australia,Batting Allrounder,Right hand Bat,Right arm Fast medium
+Matthew Kuhnemann,Australia,Bowler,Left hand Bat,Slow Left arm Orthodox
+Nathan Lyon,Australia,Bowler,Right hand Bat,Right arm Offbreak
+Todd Murphy,Australia,Bowler,Left hand Bat,Right arm Offbreak
+Ravichandran Ashwin,India,Bowling Allrounder,Right hand Bat,Right arm Offbreak
+Ravindra Jadeja,India,Allrounder,Left hand Bat,Slow Left arm Orthodox
+Axar Patel,India,Bowling Allrounder,Akshar Patel,Left hand Bat
+Umesh Yadav,India,Bowler,Right hand Bat,Right arm Fast
+Mohammed Siraj,India,Bowler,Right hand Bat,Right arm Fast
+Dean Elgar,South Africa,Opening Batter,Left hand Bat,Slow Left arm Orthodox
+Aiden Markram,South Africa,Opening Batter,Right hand Bat,Right arm Offbreak
+Tony de Zorzi,South Africa,Top order Batter,Left hand Bat,Right arm Offbreak
+Temba Bavuma,South Africa,Middle order Batter,Right hand Bat,Right arm Medium
+Ryan Rickelton,South Africa,Wicketkeeper Batter,Left hand Bat,Wicketkeeper
+Heinrich Klaasen,South Africa,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak
+Wiaan Mulder,South Africa,Allrounder,Wiaan,Right hand Bat
+Simon Harmer,South Africa,Bowler,Right hand Bat,Right arm Offbreak
+Keshav Maharaj,South Africa,Bowler,Right hand Bat,Slow Left arm Orthodox
+Gerald Coetzee,South Africa,Bowler,Right hand Bat,Right arm Fast
+Kagiso Rabada,South Africa,Bowler,Left hand Bat,Right arm Fast
+Kraigg Brathwaite,West Indies,Opening Batter,BoBo,Right hand Bat
+Tagenarine Chanderpaul,West Indies,Opening Batter,Left hand Bat,Legbreak
+Raymon Reifer,West Indies,Allrounder,Left hand Bat,Left arm Medium fast
+Jermaine Blackwood,West Indies,Middle order Batter,Right hand Bat,Right arm Offbreak
+Roston Chase,West Indies,Allrounder,Right hand Bat,Right arm Offbreak
+Kyle Mayers,West Indies,Batting Allrounder,Left hand Bat,Right arm Medium
+Joshua Da Silva,West Indies,Wicketkeeper Batter,Josh,Right hand Bat
+Jason Holder,West Indies,Bowling Allrounder,Right hand Bat,Right arm Medium fast
+Alzarri Joseph,West Indies,Bowler,Right hand Bat,Right arm Fast
+Kemar Roach,West Indies,Bowler,Right hand Bat,Right arm Fast medium
+Gudakesh Motie,West Indies,Bowler,Motie-Kanhai,Left hand Bat
+Kemar Roach,West Indies,Bowler,Right hand Bat,Right arm Fast medium
+Alzarri Joseph,West Indies,Bowler,Right hand Bat,Right arm Fast
+Kyle Mayers,West Indies,Batting Allrounder,Left hand Bat,Right arm Medium
+Jason Holder,West Indies,Bowling Allrounder,Right hand Bat,Right arm Medium fast
+Gudakesh Motie,West Indies,Bowler,Motie-Kanhai,Left hand Bat
+Roston Chase,West Indies,Allrounder,Right hand Bat,Right arm Offbreak
+Kagiso Rabada,South Africa,Bowler,Left hand Bat,Right arm Fast
+Wiaan Mulder,South Africa,Allrounder,Wiaan,Right hand Bat
+Gerald Coetzee,South Africa,Bowler,Right hand Bat,Right arm Fast
+Simon Harmer,South Africa,Bowler,Right hand Bat,Right arm Offbreak
+Keshav Maharaj,South Africa,Bowler,Right hand Bat,Slow Left arm Orthodox
+Oshada Fernando,Sri Lanka,Top order Batter,Right hand Bat,Legbreak
+Dimuth Karunaratne,Sri Lanka,Opening Batter,Left hand Bat,Right arm Medium
+Kusal Mendis,Sri Lanka,Wicketkeeper Batter,Right hand Bat,Legbreak
+Angelo Mathews,Sri Lanka,Allrounder,Right hand Bat,Right arm Medium
+Dinesh Chandimal,Sri Lanka,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak
+Dhananjaya de Silva,Sri Lanka,Allrounder,Right hand Bat,Right arm Offbreak
+Niroshan Dickwella,Sri Lanka,Wicketkeeper Batter,Niro,Left hand Bat
+Kasun Rajitha,Sri Lanka,Bowler,Right hand Bat,Right arm Medium fast
+Prabath Jayasuriya,Sri Lanka,Bowler,Right hand Bat,Slow Left arm Orthodox
+Lahiru Kumara,Sri Lanka,Bowler,Left hand Bat,Right arm Fast
+Asitha Fernando,Sri Lanka,Bowler,Right hand Bat,Right arm Medium fast
+Tom Latham,New Zealand,Wicketkeeper Batter,Left hand Bat,Right arm Medium
+Devon Conway,New Zealand,Wicketkeeper Batter,Left hand Bat,Right arm Medium
+Kane Williamson,New Zealand,Top order Batter,Right hand Bat,Right arm Offbreak
+Henry Nicholls,New Zealand,Top order Batter,Left hand Bat,Right arm Offbreak
+Daryl Mitchell,New Zealand,Allrounder,Moose,Right hand Bat
+Tom Blundell,New Zealand,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak
+Michael Bracewell,New Zealand,Batting Allrounder,Left hand Bat,Right arm Offbreak
+Tim Southee,New Zealand,Bowler,Right hand Bat,Right arm Medium fast
+Matt Henry,New Zealand,Bowler,Right hand Bat,Right arm Fast medium
+Neil Wagner,New Zealand,Bowler,Left hand Bat,Left arm Medium fast
+Blair Tickner,New Zealand,Bowler,Right hand Bat,Right arm Medium fast
+Tim Southee,New Zealand,Bowler,Right hand Bat,Right arm Medium fast
+Matt Henry,New Zealand,Bowler,Right hand Bat,Right arm Fast medium
+Blair Tickner,New Zealand,Bowler,Right hand Bat,Right arm Medium fast
+Neil Wagner,New Zealand,Bowler,Left hand Bat,Left arm Medium fast
+Daryl Mitchell,New Zealand,Allrounder,Moose,Right hand Bat
+Michael Bracewell,New Zealand,Batting Allrounder,Left hand Bat,Right arm Offbreak
+Kasun Rajitha,Sri Lanka,Bowler,Right hand Bat,Right arm Medium fast
+Asitha Fernando,Sri Lanka,Bowler,Right hand Bat,Right arm Medium fast
+Lahiru Kumara,Sri Lanka,Bowler,Left hand Bat,Right arm Fast
+Dhananjaya de Silva,Sri Lanka,Allrounder,Right hand Bat,Right arm Offbreak
+Angelo Mathews,Sri Lanka,Allrounder,Right hand Bat,Right arm Medium
+Prabath Jayasuriya,Sri Lanka,Bowler,Right hand Bat,Slow Left arm Orthodox
+Travis Head,Australia,Middle order Batter,Left hand Bat,Right arm Offbreak
+Usman Khawaja,Australia,Top order Batter,Usie,Left hand Bat
+Marnus Labuschagne,Australia,Batting Allrounder,Right hand Bat,Legbreak
+Steven Smith,Australia,Middle order Batter,Steve Smith,Right hand Bat
+Peter Handscomb,Australia,Batter,Right hand Bat,Wicketkeeper
+Cameron Green,Australia,Batting Allrounder,Right hand Bat,Right arm Fast medium
+Alex Carey,Australia,Wicketkeeper Batter,Left hand Bat,Wicketkeeper
+Mitchell Starc,Australia,Bowler,Left hand Bat,Left arm Fast
+Nathan Lyon,Australia,Bowler,Right hand Bat,Right arm Offbreak
+Todd Murphy,Australia,Bowler,Left hand Bat,Right arm Offbreak
+Matthew Kuhnemann,Australia,Bowler,Left hand Bat,Slow Left arm Orthodox
+Rohit Sharma,India,Top order Batter,Right hand Bat,Right arm Offbreak
+Shubman Gill,India,Opening Batter,Right hand Bat,Right arm Offbreak
+Cheteshwar Pujara,India,Top order Batter,Right hand Bat,Legbreak
+Virat Kohli,India,Top order Batter,Right hand Bat,Right arm Medium
+Ravindra Jadeja,India,Allrounder,Left hand Bat,Slow Left arm Orthodox
+Srikar Bharat,India,Wicketkeeper Batter,Right hand Bat,Wicketkeeper
+Axar Patel,India,Bowling Allrounder,Akshar Patel,Left hand Bat
+Ravichandran Ashwin,India,Bowling Allrounder,Right hand Bat,Right arm Offbreak
+Umesh Yadav,India,Bowler,Right hand Bat,Right arm Fast
+Mohammed Shami,India,Bowler,Right hand Bat,Right arm Fast
+Shreyas Iyer,India,Top order Batter,Right hand Bat,"Right arm Offbreak, Legbreak Googly"
+Mohammed Shami,India,Bowler,Right hand Bat,Right arm Fast
+Umesh Yadav,India,Bowler,Right hand Bat,Right arm Fast
+Ravichandran Ashwin,India,Bowling Allrounder,Right hand Bat,Right arm Offbreak
+Ravindra Jadeja,India,Allrounder,Left hand Bat,Slow Left arm Orthodox
+Axar Patel,India,Bowling Allrounder,Akshar Patel,Left hand Bat
+Shreyas Iyer,India,Top order Batter,Right hand Bat,"Right arm Offbreak, Legbreak Googly"
+Mitchell Starc,Australia,Bowler,Left hand Bat,Left arm Fast
+Cameron Green,Australia,Batting Allrounder,Right hand Bat,Right arm Fast medium
+Nathan Lyon,Australia,Bowler,Right hand Bat,Right arm Offbreak
+Matthew Kuhnemann,Australia,Bowler,Left hand Bat,Slow Left arm Orthodox
+Todd Murphy,Australia,Bowler,Left hand Bat,Right arm Offbreak
+Travis Head,Australia,Middle order Batter,Left hand Bat,Right arm Offbreak
+Tom Latham,New Zealand,Wicketkeeper Batter,Left hand Bat,Right arm Medium
+Devon Conway,New Zealand,Wicketkeeper Batter,Left hand Bat,Right arm Medium
+Kane Williamson,New Zealand,Top order Batter,Right hand Bat,Right arm Offbreak
+Henry Nicholls,New Zealand,Top order Batter,Left hand Bat,Right arm Offbreak
+Daryl Mitchell,New Zealand,Allrounder,Moose,Right hand Bat
+Tom Blundell,New Zealand,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak
+Oshada Fernando,Sri Lanka,Top order Batter,Right hand Bat,Legbreak
+Dimuth Karunaratne,Sri Lanka,Opening Batter,Left hand Bat,Right arm Medium
+Kusal Mendis,Sri Lanka,Wicketkeeper Batter,Right hand Bat,Legbreak
+Prabath Jayasuriya,Sri Lanka,Bowler,Right hand Bat,Slow Left arm Orthodox
+Angelo Mathews,Sri Lanka,Allrounder,Right hand Bat,Right arm Medium
+Dinesh Chandimal,Sri Lanka,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak
+Dhananjaya de Silva,Sri Lanka,Allrounder,Right hand Bat,Right arm Offbreak
+Nishan Madushka,Sri Lanka,Wicketkeeper Batter,Nishan Fernando,Right hand Bat
+Kasun Rajitha,Sri Lanka,Bowler,Right hand Bat,Right arm Medium fast
+Lahiru Kumara,Sri Lanka,Bowler,Left hand Bat,Right arm Fast
+Asitha Fernando,Sri Lanka,Bowler,Right hand Bat,Right arm Medium fast
+Kasun Rajitha,Sri Lanka,Bowler,Right hand Bat,Right arm Medium fast
+Asitha Fernando,Sri Lanka,Bowler,Right hand Bat,Right arm Medium fast
+Lahiru Kumara,Sri Lanka,Bowler,Left hand Bat,Right arm Fast
+Dhananjaya de Silva,Sri Lanka,Allrounder,Right hand Bat,Right arm Offbreak
+Prabath Jayasuriya,Sri Lanka,Bowler,Right hand Bat,Slow Left arm Orthodox
+Tim Southee,New Zealand,Bowler,Right hand Bat,Right arm Medium fast
+Matt Henry,New Zealand,Bowler,Right hand Bat,Right arm Fast medium
+Doug Bracewell,New Zealand,Bowler,Right hand Bat,Right arm Fast medium
+Michael Bracewell,New Zealand,Batting Allrounder,Left hand Bat,Right arm Offbreak
+Blair Tickner,New Zealand,Bowler,Right hand Bat,Right arm Medium fast
+Daryl Mitchell,New Zealand,Allrounder,Moose,Right hand Bat
+James McCollum,Ireland,Opening Batter,Right hand Bat,Right arm Medium
+Murray Commins,Ireland,Batter,Left hand Bat,Batter
+Andy Balbirnie,Ireland,Batter,Right hand Bat,Right arm Offbreak
+Harry Tector,Ireland,Middle order Batter,Right hand Bat,Right arm Offbreak
+Curtis Campher,Ireland,Allrounder,Right hand Bat,Right arm Medium fast
+Peter Moor,Ireland,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak
+Lorcan Tucker,Ireland,Wicketkeeper Batter,Right hand Bat,Wicketkeeper
+Andy McBrine,Ireland,Bowling Allrounder,Scra,Left hand Bat
+Mark Adair,Ireland,Bowling Allrounder,Sparky,Right hand Bat
+Graham Hume,Ireland,Bowler,Left hand Bat,Right arm Fast medium
+Ben White,Ireland,Bowler,Right hand Bat,Legbreak
+Tamim Iqbal,Bangladesh,Opening Batter,Left hand Bat,Opening Batter
+Najmul Hossain Shanto,Bangladesh,Top order Batter,Left hand Bat,Right arm Offbreak
+Mominul Haque,Bangladesh,Middle order Batter,Muminul Showrav,Showrab
+Mushfiqur Rahim,Bangladesh,Wicketkeeper Batter,Right hand Bat,Wicketkeeper
+Shakib Al Hasan,Bangladesh,Allrounder,Saqibul Hasan,Left hand Bat
+Litton Das,Bangladesh,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak
+Mehidy Hasan Miraz,Bangladesh,Allrounder,Miraz,Right hand Bat
+Taijul Islam,Bangladesh,Bowler,Left hand Bat,Slow Left arm Orthodox
+Shoriful Islam,Bangladesh,Bowler,Left hand Bat,Left arm Medium fast
+Ebadot Hossain,Bangladesh,Bowler,Right hand Bat,Right arm Fast medium
+Khaled Ahmed,Bangladesh,Bowler,Right hand Bat,Right arm Medium
+Shoriful Islam,Bangladesh,Bowler,Left hand Bat,Left arm Medium fast
+Khaled Ahmed,Bangladesh,Bowler,Right hand Bat,Right arm Medium
+Ebadot Hossain,Bangladesh,Bowler,Right hand Bat,Right arm Fast medium
+Taijul Islam,Bangladesh,Bowler,Left hand Bat,Slow Left arm Orthodox
+Mehidy Hasan Miraz,Bangladesh,Allrounder,Miraz,Right hand Bat
+Shakib Al Hasan,Bangladesh,Allrounder,Saqibul Hasan,Left hand Bat
+Mark Adair,Ireland,Bowling Allrounder,Sparky,Right hand Bat
+Graham Hume,Ireland,Bowler,Left hand Bat,Right arm Fast medium
+Andy McBrine,Ireland,Bowling Allrounder,Scra,Left hand Bat
+Curtis Campher,Ireland,Allrounder,Right hand Bat,Right arm Medium fast
+Ben White,Ireland,Bowler,Right hand Bat,Legbreak
+Harry Tector,Ireland,Middle order Batter,Right hand Bat,Right arm Offbreak
+Nishan Madushka,Sri Lanka,Wicketkeeper Batter,Nishan Fernando,Right hand Bat
+Dimuth Karunaratne,Sri Lanka,Opening Batter,Left hand Bat,Right arm Medium
+Kusal Mendis,Sri Lanka,Wicketkeeper Batter,Right hand Bat,Legbreak
+Angelo Mathews,Sri Lanka,Allrounder,Right hand Bat,Right arm Medium
+Dinesh Chandimal,Sri Lanka,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak
+Prabath Jayasuriya,Sri Lanka,Bowler,Right hand Bat,Slow Left arm Orthodox
+Dhananjaya de Silva,Sri Lanka,Allrounder,Right hand Bat,Right arm Offbreak
+Sadeera Samarawickrama,Sri Lanka,Wicketkeeper Batter,Right hand Bat,Wicketkeeper
+James McCollum,Ireland,Opening Batter,Right hand Bat,Right arm Medium
+Murray Commins,Ireland,Batter,Left hand Bat,Batter
+Andy Balbirnie,Ireland,Batter,Right hand Bat,Right arm Offbreak
+Harry Tector,Ireland,Middle order Batter,Right hand Bat,Right arm Offbreak
+Curtis Campher,Ireland,Allrounder,Right hand Bat,Right arm Medium fast
+Peter Moor,Ireland,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak
+Lorcan Tucker,Ireland,Wicketkeeper Batter,Right hand Bat,Wicketkeeper
+George Dockrell,Ireland,Allrounder,Right hand Bat,Slow Left arm Orthodox
+Andy McBrine,Ireland,Bowling Allrounder,Scra,Left hand Bat
+Mark Adair,Ireland,Bowling Allrounder,Sparky,Right hand Bat
+Ben White,Ireland,Bowler,Right hand Bat,Legbreak
+Mark Adair,Ireland,Bowling Allrounder,Sparky,Right hand Bat
+Curtis Campher,Ireland,Allrounder,Right hand Bat,Right arm Medium fast
+Andy McBrine,Ireland,Bowling Allrounder,Scra,Left hand Bat
+Ben White,Ireland,Bowler,Right hand Bat,Legbreak
+George Dockrell,Ireland,Allrounder,Right hand Bat,Slow Left arm Orthodox
+Harry Tector,Ireland,Middle order Batter,Right hand Bat,Right arm Offbreak
+Asitha Fernando,Sri Lanka,Bowler,Right hand Bat,Right arm Medium fast
+Vishwa Fernando,Sri Lanka,Bowler,Right hand Bat,Left arm Medium fast
+Prabath Jayasuriya,Sri Lanka,Bowler,Right hand Bat,Slow Left arm Orthodox
+Ramesh Mendis,Sri Lanka,Allrounder,Right hand Bat,Right arm Offbreak
+Dhananjaya de Silva,Sri Lanka,Allrounder,Right hand Bat,Right arm Offbreak
+James McCollum,Ireland,Opening Batter,Right hand Bat,Right arm Medium
+Peter Moor,Ireland,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak
+Andy Balbirnie,Ireland,Batter,Right hand Bat,Right arm Offbreak
+Harry Tector,Ireland,Middle order Batter,Right hand Bat,Right arm Offbreak
+Paul Stirling,Ireland,Batting Allrounder,Right hand Bat,Right arm Offbreak
+Lorcan Tucker,Ireland,Wicketkeeper Batter,Right hand Bat,Wicketkeeper
+Curtis Campher,Ireland,Allrounder,Right hand Bat,Right arm Medium fast
+Andy McBrine,Ireland,Bowling Allrounder,Scra,Left hand Bat
+Graham Hume,Ireland,Bowler,Left hand Bat,Right arm Fast medium
+Matthew Humphreys,Ireland,Bowler,Right hand Bat,Slow Left arm Orthodox
+Ben White,Ireland,Bowler,Right hand Bat,Legbreak
+Nishan Madushka,Sri Lanka,Wicketkeeper Batter,Nishan Fernando,Right hand Bat
+Dimuth Karunaratne,Sri Lanka,Opening Batter,Left hand Bat,Right arm Medium
+Kusal Mendis,Sri Lanka,Wicketkeeper Batter,Right hand Bat,Legbreak
+Angelo Mathews,Sri Lanka,Allrounder,Right hand Bat,Right arm Medium
+Dinesh Chandimal,Sri Lanka,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak
+Dhananjaya de Silva,Sri Lanka,Allrounder,Right hand Bat,Right arm Offbreak
+Vishwa Fernando,Sri Lanka,Bowler,Right hand Bat,Left arm Medium fast
+Asitha Fernando,Sri Lanka,Bowler,Right hand Bat,Right arm Medium fast
+Prabath Jayasuriya,Sri Lanka,Bowler,Right hand Bat,Slow Left arm Orthodox
+Ramesh Mendis,Sri Lanka,Allrounder,Right hand Bat,Right arm Offbreak
+Dhananjaya de Silva,Sri Lanka,Allrounder,Right hand Bat,Right arm Offbreak
+Graham Hume,Ireland,Bowler,Left hand Bat,Right arm Fast medium
+Andy McBrine,Ireland,Bowling Allrounder,Scra,Left hand Bat
+Curtis Campher,Ireland,Allrounder,Right hand Bat,Right arm Medium fast
+Matthew Humphreys,Ireland,Bowler,Right hand Bat,Slow Left arm Orthodox
+Ben White,Ireland,Bowler,Right hand Bat,Legbreak
+Harry Tector,Ireland,Middle order Batter,Right hand Bat,Right arm Offbreak
+James McCollum,Ireland,Opening Batter,Right hand Bat,Right arm Medium
+Peter Moor,Ireland,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak
+Andy Balbirnie,Ireland,Batter,Right hand Bat,Right arm Offbreak
+Harry Tector,Ireland,Middle order Batter,Right hand Bat,Right arm Offbreak
+Paul Stirling,Ireland,Batting Allrounder,Right hand Bat,Right arm Offbreak
+Lorcan Tucker,Ireland,Wicketkeeper Batter,Right hand Bat,Wicketkeeper
+Curtis Campher,Ireland,Allrounder,Right hand Bat,Right arm Medium fast
+Andy McBrine,Ireland,Bowling Allrounder,Scra,Left hand Bat
+Mark Adair,Ireland,Bowling Allrounder,Sparky,Right hand Bat
+Fionn Hand,Ireland,Bowling Allrounder,Right hand Bat,Right arm Medium
+Graham Hume,Ireland,Bowler,Left hand Bat,Right arm Fast medium
+Zak Crawley,England,Top order Batter,Right hand Bat,Right arm Offbreak
+Ben Duckett,England,Top order Batter,Left hand Bat,Right arm Offbreak
+Ollie Pope,England,Middle order Batter,Right hand Bat,Wicketkeeper
+Joe Root,England,Top order Batter,Right hand Bat,"Right arm Offbreak, Legbreak"
+Harry Brook,England,Batter,Right hand Bat,Right arm Medium
+Stuart Broad,England,Bowler,Broady,Left hand Bat
+Matthew Potts,England,Bowler,Right hand Bat,Right arm Fast medium
+Josh Tongue,England,Bowler,Right hand Bat,Right arm Fast medium
+Jack Leach,England,Bowler,"Leachy, Nut",Left hand Bat
+Mark Adair,Ireland,Bowling Allrounder,Sparky,Right hand Bat
+Graham Hume,Ireland,Bowler,Left hand Bat,Right arm Fast medium
+Fionn Hand,Ireland,Bowling Allrounder,Right hand Bat,Right arm Medium
+Curtis Campher,Ireland,Allrounder,Right hand Bat,Right arm Medium fast
+Andy McBrine,Ireland,Bowling Allrounder,Scra,Left hand Bat
+David Warner,Australia,Opening Batter,Lloyd,Left hand Bat
+Usman Khawaja,Australia,Top order Batter,Usie,Left hand Bat
+Marnus Labuschagne,Australia,Batting Allrounder,Right hand Bat,Legbreak
+Steven Smith,Australia,Middle order Batter,Steve Smith,Right hand Bat
+Travis Head,Australia,Middle order Batter,Left hand Bat,Right arm Offbreak
+Cameron Green,Australia,Batting Allrounder,Right hand Bat,Right arm Fast medium
+Alex Carey,Australia,Wicketkeeper Batter,Left hand Bat,Wicketkeeper
+Mitchell Starc,Australia,Bowler,Left hand Bat,Left arm Fast
+Pat Cummins,Australia,Bowler,Cummo,Right hand Bat
+Nathan Lyon,Australia,Bowler,Right hand Bat,Right arm Offbreak
+Scott Boland,Australia,Bowler,Right hand Bat,Right arm Fast medium
+Rohit Sharma,India,Top order Batter,Right hand Bat,Right arm Offbreak
+Shubman Gill,India,Opening Batter,Right hand Bat,Right arm Offbreak
+Cheteshwar Pujara,India,Top order Batter,Right hand Bat,Legbreak
+Virat Kohli,India,Top order Batter,Right hand Bat,Right arm Medium
+Ajinkya Rahane,India,Top order Batter,Right hand Bat,Right arm Medium
+Ravindra Jadeja,India,Allrounder,Left hand Bat,Slow Left arm Orthodox
+Srikar Bharat,India,Wicketkeeper Batter,Right hand Bat,Wicketkeeper
+Shardul Thakur,India,Bowler,Right hand Bat,Right arm Medium
+Umesh Yadav,India,Bowler,Right hand Bat,Right arm Fast
+Mohammed Shami,India,Bowler,Right hand Bat,Right arm Fast
+Mohammed Siraj,India,Bowler,Right hand Bat,Right arm Fast
+Mohammed Shami,India,Bowler,Right hand Bat,Right arm Fast
+Mohammed Siraj,India,Bowler,Right hand Bat,Right arm Fast
+Umesh Yadav,India,Bowler,Right hand Bat,Right arm Fast
+Shardul Thakur,India,Bowler,Right hand Bat,Right arm Medium
+Ravindra Jadeja,India,Allrounder,Left hand Bat,Slow Left arm Orthodox
+Mitchell Starc,Australia,Bowler,Left hand Bat,Left arm Fast
+Pat Cummins,Australia,Bowler,Cummo,Right hand Bat
+Scott Boland,Australia,Bowler,Right hand Bat,Right arm Fast medium
+Cameron Green,Australia,Batting Allrounder,Right hand Bat,Right arm Fast medium
+Nathan Lyon,Australia,Bowler,Right hand Bat,Right arm Offbreak
+Mahmudul Hasan Joy,Bangladesh,Top order Batter,Right hand Bat,Top order Batter
+Zakir Hasan,Bangladesh,Wicketkeeper Batter,Left hand Bat,Wicketkeeper
+Najmul Hossain Shanto,Bangladesh,Top order Batter,Left hand Bat,Right arm Offbreak
+Mominul Haque,Bangladesh,Middle order Batter,Muminul Showrav,Showrab
+Mushfiqur Rahim,Bangladesh,Wicketkeeper Batter,Right hand Bat,Wicketkeeper
+Litton Das,Bangladesh,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak
+Mehidy Hasan Miraz,Bangladesh,Allrounder,Miraz,Right hand Bat
+Taskin Ahmed,Bangladesh,Bowler,Tazin,Left hand Bat
+Taijul Islam,Bangladesh,Bowler,Left hand Bat,Slow Left arm Orthodox
+Shoriful Islam,Bangladesh,Bowler,Left hand Bat,Left arm Medium fast
+Ebadot Hossain,Bangladesh,Bowler,Right hand Bat,Right arm Fast medium
+Ibrahim Zadran,Afghanistan,Opening Batter,Right hand Bat,Right arm Medium fast
+Abdul Malik,Afghanistan,Opening Batter,Right hand Bat,Right arm Offbreak
+Rahmat Shah,Afghanistan,Allrounder,Right hand Bat,Legbreak Googly
+Hashmatullah Shahidi,Afghanistan,Top order Batter,Hashmat Shaidi,Left hand Bat
+Nasir Jamal,Afghanistan,Middle order Batter,Right hand Bat,"Right arm Offbreak, Legbreak Googly"
+Afsar Zazai,Afghanistan,Wicketkeeper Batter,Right hand Bat,Wicketkeeper
+Karim Janat,Afghanistan,Bowling Allrounder,Right hand Bat,Right arm Medium
+Amir Hamza,Afghanistan,Bowling Allrounder,Hamza Hotak,Right hand Bat
+Yamin Ahmadzai,Afghanistan,Bowler,Mohammad Yamin,Right hand Bat
+Nijat Masood,Afghanistan,Bowler,Right hand Bat,Right arm Medium
+Zahir Khan,Afghanistan,Bowler,Left hand Bat,Left arm Wrist spin
+Yamin Ahmadzai,Afghanistan,Bowler,Mohammad Yamin,Right hand Bat
+Nijat Masood,Afghanistan,Bowler,Right hand Bat,Right arm Medium
+Karim Janat,Afghanistan,Bowling Allrounder,Right hand Bat,Right arm Medium
+Zahir Khan,Afghanistan,Bowler,Left hand Bat,Left arm Wrist spin
+Amir Hamza,Afghanistan,Bowling Allrounder,Hamza Hotak,Right hand Bat
+Hashmatullah Shahidi,Afghanistan,Top order Batter,Hashmat Shaidi,Left hand Bat
+Rahmat Shah,Afghanistan,Allrounder,Right hand Bat,Legbreak Googly
+Taskin Ahmed,Bangladesh,Bowler,Tazin,Left hand Bat
+Shoriful Islam,Bangladesh,Bowler,Left hand Bat,Left arm Medium fast
+Ebadot Hossain,Bangladesh,Bowler,Right hand Bat,Right arm Fast medium
+Taijul Islam,Bangladesh,Bowler,Left hand Bat,Slow Left arm Orthodox
+Mehidy Hasan Miraz,Bangladesh,Allrounder,Miraz,Right hand Bat
+Zak Crawley,England,Top order Batter,Right hand Bat,Right arm Offbreak
+Ben Duckett,England,Top order Batter,Left hand Bat,Right arm Offbreak
+Ollie Pope,England,Middle order Batter,Right hand Bat,Wicketkeeper
+Joe Root,England,Top order Batter,Right hand Bat,"Right arm Offbreak, Legbreak"
+Harry Brook,England,Batter,Right hand Bat,Right arm Medium
+Ben Stokes,England,Allrounder,Left hand Bat,Right arm Fast medium
+Jonny Bairstow,England,Wicketkeeper Batter,Bluey,Right hand Bat
+Moeen Ali,England,Batting Allrounder,Moe,Left hand Bat
+Stuart Broad,England,Bowler,Broady,Left hand Bat
+Ollie Robinson,England,Bowler,Right hand Bat,Right arm Medium fast
+David Warner,Australia,Opening Batter,Lloyd,Left hand Bat
+Usman Khawaja,Australia,Top order Batter,Usie,Left hand Bat
+Marnus Labuschagne,Australia,Batting Allrounder,Right hand Bat,Legbreak
+Steven Smith,Australia,Middle order Batter,Steve Smith,Right hand Bat
+Travis Head,Australia,Middle order Batter,Left hand Bat,Right arm Offbreak
+Cameron Green,Australia,Batting Allrounder,Right hand Bat,Right arm Fast medium
+Alex Carey,Australia,Wicketkeeper Batter,Left hand Bat,Wicketkeeper
+Pat Cummins,Australia,Bowler,Cummo,Right hand Bat
+Nathan Lyon,Australia,Bowler,Right hand Bat,Right arm Offbreak
+Scott Boland,Australia,Bowler,Right hand Bat,Right arm Fast medium
+Josh Hazlewood,Australia,Bowler,Left hand Bat,Right arm Fast medium
+Pat Cummins,Australia,Bowler,Cummo,Right hand Bat
+Josh Hazlewood,Australia,Bowler,Left hand Bat,Right arm Fast medium
+Scott Boland,Australia,Bowler,Right hand Bat,Right arm Fast medium
+Nathan Lyon,Australia,Bowler,Right hand Bat,Right arm Offbreak
+Cameron Green,Australia,Batting Allrounder,Right hand Bat,Right arm Fast medium
+Stuart Broad,England,Bowler,Broady,Left hand Bat
+Ollie Robinson,England,Bowler,Right hand Bat,Right arm Medium fast
+James Anderson,England,Bowler,Jimmy,Left hand Bat
+Harry Brook,England,Batter,Right hand Bat,Right arm Medium
+Moeen Ali,England,Batting Allrounder,Moe,Left hand Bat
+Ben Stokes,England,Allrounder,Left hand Bat,Right arm Fast medium
+Joe Root,England,Top order Batter,Right hand Bat,"Right arm Offbreak, Legbreak"

@@ -1,0 +1,433 @@
+match,match_ID,teamInnings,battingPos,batsmanName,Out/Not Out,runs,balls,4s,6s,SR,team
+Pakistan VS New Zealand,Test # 2487,Innings 1,1,Tom Latham,Out,71,100,9,0,71.00,New Zealand
+Pakistan VS New Zealand,Test # 2487,Innings 1,2,Devon Conway,Out,122,191,16,1,63.87,New Zealand
+Pakistan VS New Zealand,Test # 2487,Innings 1,3,Kane Williamson,Out,36,91,5,0,39.56,New Zealand
+Pakistan VS New Zealand,Test # 2487,Innings 1,4,Henry Nicholls,Out,26,56,3,0,46.42,New Zealand
+Pakistan VS New Zealand,Test # 2487,Innings 1,5,Daryl Mitchell,Out,3,14,0,0,21.42,New Zealand
+Pakistan VS New Zealand,Test # 2487,Innings 1,6,Tom Blundell,Out,51,108,6,0,47.22,New Zealand
+Pakistan VS New Zealand,Test # 2487,Innings 1,7,Michael Bracewell,Out,0,2,0,0,0.00,New Zealand
+Pakistan VS New Zealand,Test # 2487,Innings 1,8,Ish Sodhi,Out,11,33,2,0,33.33,New Zealand
+Pakistan VS New Zealand,Test # 2487,Innings 1,9,Tim Southee,Out,10,37,1,0,27.02,New Zealand
+Pakistan VS New Zealand,Test # 2487,Innings 1,10,Matt Henry,Not Out,68,81,8,2,83.95,New Zealand
+Pakistan VS New Zealand,Test # 2487,Innings 1,11,Ajaz Patel,Out,35,78,4,0,44.87,New Zealand
+Pakistan VS New Zealand,Test # 2487,Innings 2,1,Abdullah Shafique,Out,19,32,4,0,59.37,Pakistan
+Pakistan VS New Zealand,Test # 2487,Innings 2,2,Imam-ul-Haq,Out,83,165,10,1,50.30,Pakistan
+Pakistan VS New Zealand,Test # 2487,Innings 2,3,Shan Masood,Out,20,11,4,0,181.81,Pakistan
+Pakistan VS New Zealand,Test # 2487,Innings 2,4,Babar Azam,Out,24,41,3,1,58.53,Pakistan
+Pakistan VS New Zealand,Test # 2487,Innings 2,5,Saud Shakeel,Not Out,125,341,17,0,36.65,Pakistan
+Pakistan VS New Zealand,Test # 2487,Innings 2,6,Sarfaraz Ahmed,Out,78,109,10,0,71.55,Pakistan
+Pakistan VS New Zealand,Test # 2487,Innings 2,7,Agha Salman,Out,41,78,7,0,52.56,Pakistan
+Pakistan VS New Zealand,Test # 2487,Innings 2,8,Hasan Ali,Out,4,5,1,0,80.00,Pakistan
+Pakistan VS New Zealand,Test # 2487,Innings 2,9,Naseem Shah,Out,4,8,1,0,50.00,Pakistan
+Pakistan VS New Zealand,Test # 2487,Innings 2,10,Mir Hamza,Out,0,1,0,0,0.00,Pakistan
+Pakistan VS New Zealand,Test # 2487,Innings 2,11,Abrar Ahmed,Out,0,10,0,0,0.00,Pakistan
+Australia VS South Africa,Test # 2488,Innings 1,1,Usman Khawaja,Not Out,195,368,19,1,52.98,Australia
+Australia VS South Africa,Test # 2488,Innings 1,2,David Warner,Out,10,11,2,0,90.90,Australia
+Australia VS South Africa,Test # 2488,Innings 1,3,Marnus Labuschagne,Out,79,151,13,0,52.31,Australia
+Australia VS South Africa,Test # 2488,Innings 1,4,Steven Smith,Out,104,192,11,2,54.16,Australia
+Australia VS South Africa,Test # 2488,Innings 1,5,Travis Head,Out,70,59,8,1,118.64,Australia
+Australia VS South Africa,Test # 2488,Innings 1,6,Matt Renshaw,Not Out,5,11,1,0,45.45,Australia
+Australia VS South Africa,Test # 2488,Innings 2,1,Dean Elgar,Out,15,34,2,0,44.11,South Africa
+Australia VS South Africa,Test # 2488,Innings 2,2,Sarel Erwee,Out,18,55,2,0,32.72,South Africa
+Australia VS South Africa,Test # 2488,Innings 2,3,Heinrich Klaasen,Out,2,22,0,0,9.09,South Africa
+Australia VS South Africa,Test # 2488,Innings 2,4,Temba Bavuma,Out,35,74,1,2,47.29,South Africa
+Australia VS South Africa,Test # 2488,Innings 2,5,Khaya Zondo,Out,39,83,2,2,46.98,South Africa
+Australia VS South Africa,Test # 2488,Innings 2,6,Kyle Verreynne,Out,19,39,2,0,48.71,South Africa
+Australia VS South Africa,Test # 2488,Innings 2,7,Marco Jansen,Out,11,78,1,0,14.10,South Africa
+Australia VS South Africa,Test # 2488,Innings 2,8,Simon Harmer,Out,47,165,4,0,28.48,South Africa
+Australia VS South Africa,Test # 2488,Innings 2,9,Keshav Maharaj,Out,53,81,6,1,65.43,South Africa
+Australia VS South Africa,Test # 2488,Innings 2,10,Kagiso Rabada,Out,3,22,0,0,13.63,South Africa
+Australia VS South Africa,Test # 2488,Innings 2,11,Anrich Nortje,Not Out,0,0,0,0,-,South Africa
+Zimbabwe VS West Indies,Test # 2489,Innings 1,1,Kraigg Brathwaite,Out,182,312,18,0,58.33,West Indies
+Zimbabwe VS West Indies,Test # 2489,Innings 1,2,Tagenarine Chanderpaul,Not Out,207,467,16,3,44.32,West Indies
+Zimbabwe VS West Indies,Test # 2489,Innings 1,3,Kyle Mayers,Out,20,24,1,2,83.33,West Indies
+Zimbabwe VS West Indies,Test # 2489,Innings 1,4,Raymon Reifer,Out,2,17,0,0,11.76,West Indies
+Zimbabwe VS West Indies,Test # 2489,Innings 1,5,Jermaine Blackwood,Out,5,4,1,0,125.00,West Indies
+Zimbabwe VS West Indies,Test # 2489,Innings 1,6,Roston Chase,Out,7,8,1,0,87.50,West Indies
+Zimbabwe VS West Indies,Test # 2489,Innings 1,7,Jason Holder,Out,11,23,0,1,47.82,West Indies
+Zimbabwe VS West Indies,Test # 2489,Innings 1,8,Joshua Da Silva,Not Out,3,6,0,0,50.00,West Indies
+Zimbabwe VS West Indies,Test # 2489,Innings 2,1,Innocent Kaia,Out,67,132,9,0,50.75,Zimbabwe
+Zimbabwe VS West Indies,Test # 2489,Innings 2,2,Tanunurwa Makoni,Out,33,81,4,0,40.74,Zimbabwe
+Zimbabwe VS West Indies,Test # 2489,Innings 2,3,Chamu Chibhabha,Out,9,22,2,0,40.90,Zimbabwe
+Zimbabwe VS West Indies,Test # 2489,Innings 2,4,Craig Ervine,Out,13,32,1,0,40.62,Zimbabwe
+Zimbabwe VS West Indies,Test # 2489,Innings 2,5,Gary Ballance,Not Out,137,231,12,2,59.30,Zimbabwe
+Zimbabwe VS West Indies,Test # 2489,Innings 2,6,Tafadzwa Tsiga,Out,2,6,0,0,33.33,Zimbabwe
+Zimbabwe VS West Indies,Test # 2489,Innings 2,7,Brad Evans,Out,7,9,1,0,77.77,Zimbabwe
+Zimbabwe VS West Indies,Test # 2489,Innings 2,8,Wellington Masakadza,Out,15,76,1,0,19.73,Zimbabwe
+Zimbabwe VS West Indies,Test # 2489,Innings 2,9,Brandon Mavuta,Out,56,132,9,0,42.42,Zimbabwe
+Zimbabwe VS West Indies,Test # 2489,Innings 2,10,Victor Nyauchi,Out,13,10,3,0,130.00,Zimbabwe
+Zimbabwe VS West Indies,Test # 2489,Innings 2,11,Richard Ngarava,Not Out,19,20,1,1,95.00,Zimbabwe
+India VS Australia,Test # 2490,Innings 1,1,David Warner,Out,1,5,0,0,20.00,Australia
+India VS Australia,Test # 2490,Innings 1,2,Usman Khawaja,Out,1,3,0,0,33.33,Australia
+India VS Australia,Test # 2490,Innings 1,3,Marnus Labuschagne,Out,49,123,8,0,39.83,Australia
+India VS Australia,Test # 2490,Innings 1,4,Steven Smith,Out,37,107,7,0,34.57,Australia
+India VS Australia,Test # 2490,Innings 1,5,Matt Renshaw,Out,0,1,0,0,0.00,Australia
+India VS Australia,Test # 2490,Innings 1,6,Peter Handscomb,Out,31,84,4,0,36.90,Australia
+India VS Australia,Test # 2490,Innings 1,7,Alex Carey,Out,36,33,7,0,109.09,Australia
+India VS Australia,Test # 2490,Innings 1,8,Pat Cummins,Out,6,14,1,0,42.85,Australia
+India VS Australia,Test # 2490,Innings 1,9,Todd Murphy,Out,0,5,0,0,0.00,Australia
+India VS Australia,Test # 2490,Innings 1,10,Nathan Lyon,Not Out,0,3,0,0,0.00,Australia
+India VS Australia,Test # 2490,Innings 1,11,Scott Boland,Out,1,8,0,0,12.50,Australia
+India VS Australia,Test # 2490,Innings 2,1,Rohit Sharma,Out,120,212,15,2,56.60,India
+India VS Australia,Test # 2490,Innings 2,2,KL Rahul,Out,20,71,1,0,28.16,India
+India VS Australia,Test # 2490,Innings 2,3,Ravichandran Ashwin,Out,23,62,2,1,37.09,India
+India VS Australia,Test # 2490,Innings 2,4,Cheteshwar Pujara,Out,7,14,1,0,50.00,India
+India VS Australia,Test # 2490,Innings 2,5,Virat Kohli,Out,12,26,2,0,46.15,India
+India VS Australia,Test # 2490,Innings 2,6,Suryakumar Yadav,Out,8,20,1,0,40.00,India
+India VS Australia,Test # 2490,Innings 2,7,Ravindra Jadeja,Out,70,185,9,0,37.83,India
+India VS Australia,Test # 2490,Innings 2,8,Srikar Bharat,Out,8,10,1,0,80.00,India
+India VS Australia,Test # 2490,Innings 2,9,Axar Patel,Out,84,174,10,1,48.27,India
+India VS Australia,Test # 2490,Innings 2,10,Mohammed Shami,Out,37,47,2,3,78.72,India
+India VS Australia,Test # 2490,Innings 2,11,Mohammed Siraj,Not Out,1,19,0,0,5.26,India
+Zimbabwe VS West Indies,Test # 2491,Innings 1,1,Tanunurwa Makoni,Out,0,24,0,0,0.00,Zimbabwe
+Zimbabwe VS West Indies,Test # 2491,Innings 1,2,Innocent Kaia,Out,38,52,5,0,73.07,Zimbabwe
+Zimbabwe VS West Indies,Test # 2491,Innings 1,3,Chamu Chibhabha,Out,10,20,2,0,50.00,Zimbabwe
+Zimbabwe VS West Indies,Test # 2491,Innings 1,4,Craig Ervine,Out,22,36,3,0,61.11,Zimbabwe
+Zimbabwe VS West Indies,Test # 2491,Innings 1,5,Milton Shumba,Out,3,8,0,0,37.50,Zimbabwe
+Zimbabwe VS West Indies,Test # 2491,Innings 1,6,Tafadzwa Tsiga,Out,0,11,0,0,0.00,Zimbabwe
+Zimbabwe VS West Indies,Test # 2491,Innings 1,7,Donald Tiripano,Not Out,23,56,3,0,41.07,Zimbabwe
+Zimbabwe VS West Indies,Test # 2491,Innings 1,8,Wellington Masakadza,Out,1,6,0,0,16.66,Zimbabwe
+Zimbabwe VS West Indies,Test # 2491,Innings 1,9,Brandon Mavuta,Out,1,13,0,0,7.69,Zimbabwe
+Zimbabwe VS West Indies,Test # 2491,Innings 1,10,Victor Nyauchi,Out,2,8,0,0,25.00,Zimbabwe
+Zimbabwe VS West Indies,Test # 2491,Innings 1,11,Tanaka Chivanga,Out,6,11,0,1,54.54,Zimbabwe
+Zimbabwe VS West Indies,Test # 2491,Innings 2,1,Kraigg Brathwaite,Out,7,27,1,0,25.92,West Indies
+Zimbabwe VS West Indies,Test # 2491,Innings 2,2,Tagenarine Chanderpaul,Out,36,77,4,0,46.75,West Indies
+Zimbabwe VS West Indies,Test # 2491,Innings 2,3,Raymon Reifer,Out,53,86,4,1,61.62,West Indies
+Zimbabwe VS West Indies,Test # 2491,Innings 2,4,Jermaine Blackwood,Out,22,32,3,1,68.75,West Indies
+Zimbabwe VS West Indies,Test # 2491,Innings 2,5,Kyle Mayers,Out,30,54,3,0,55.55,West Indies
+Zimbabwe VS West Indies,Test # 2491,Innings 2,6,Roston Chase,Out,70,132,4,1,53.03,West Indies
+Zimbabwe VS West Indies,Test # 2491,Innings 2,7,Joshua Da Silva,Out,44,111,5,0,39.63,West Indies
+Zimbabwe VS West Indies,Test # 2491,Innings 2,8,Jason Holder,Out,3,14,0,0,21.42,West Indies
+Zimbabwe VS West Indies,Test # 2491,Innings 2,9,Alzarri Joseph,Out,4,2,1,0,200.00,West Indies
+Zimbabwe VS West Indies,Test # 2491,Innings 2,10,Gudakesh Motie,Out,12,23,2,0,52.17,West Indies
+Zimbabwe VS West Indies,Test # 2491,Innings 2,11,Shannon Gabriel,Not Out,0,3,0,0,0.00,West Indies
+New Zealand VS England,Test # 2492,Innings 1,1,Zak Crawley,Out,4,14,0,0,28.57,England
+New Zealand VS England,Test # 2492,Innings 1,2,Ben Duckett,Out,84,68,14,0,123.52,England
+New Zealand VS England,Test # 2492,Innings 1,3,Ollie Pope,Out,42,65,6,0,64.61,England
+New Zealand VS England,Test # 2492,Innings 1,4,Joe Root,Out,14,22,2,0,63.63,England
+New Zealand VS England,Test # 2492,Innings 1,5,Harry Brook,Out,89,81,15,1,109.87,England
+New Zealand VS England,Test # 2492,Innings 1,6,Ben Stokes,Out,19,28,3,0,67.85,England
+New Zealand VS England,Test # 2492,Innings 1,7,Ben Foakes,Out,38,56,5,0,67.85,England
+New Zealand VS England,Test # 2492,Innings 1,8,Stuart Broad,Out,2,6,0,0,33.33,England
+New Zealand VS England,Test # 2492,Innings 1,9,Ollie Robinson,Not Out,15,11,3,0,136.36,England
+New Zealand VS England,Test # 2492,Innings 1,10,Jack Leach,Out,1,5,0,0,20.00,England
+New Zealand VS England,Test # 2492,Innings 2,1,Tom Latham,Out,1,13,0,0,7.69,New Zealand
+New Zealand VS England,Test # 2492,Innings 2,2,Devon Conway,Out,77,151,7,1,50.99,New Zealand
+New Zealand VS England,Test # 2492,Innings 2,3,Kane Williamson,Out,6,21,1,0,28.57,New Zealand
+New Zealand VS England,Test # 2492,Innings 2,4,Henry Nicholls,Out,4,7,0,0,57.14,New Zealand
+New Zealand VS England,Test # 2492,Innings 2,5,Neil Wagner,Out,27,32,1,2,84.37,New Zealand
+New Zealand VS England,Test # 2492,Innings 2,6,Daryl Mitchell,Out,0,10,0,0,0.00,New Zealand
+New Zealand VS England,Test # 2492,Innings 2,7,Tom Blundell,Out,138,181,19,1,76.24,New Zealand
+New Zealand VS England,Test # 2492,Innings 2,8,Michael Bracewell,Out,7,14,1,0,50.00,New Zealand
+New Zealand VS England,Test # 2492,Innings 2,9,Scott Kuggeleijn,Out,20,36,2,1,55.55,New Zealand
+New Zealand VS England,Test # 2492,Innings 2,10,Tim Southee,Out,10,13,1,0,76.92,New Zealand
+New Zealand VS England,Test # 2492,Innings 2,11,Blair Tickner,Not Out,3,24,0,0,12.50,New Zealand
+India VS Australia,Test # 2493,Innings 1,1,David Warner,Out,15,44,3,0,34.09,Australia
+India VS Australia,Test # 2493,Innings 1,2,Usman Khawaja,Out,81,125,12,1,64.80,Australia
+India VS Australia,Test # 2493,Innings 1,3,Marnus Labuschagne,Out,18,25,4,0,72.00,Australia
+India VS Australia,Test # 2493,Innings 1,4,Steven Smith,Out,0,2,0,0,0.00,Australia
+India VS Australia,Test # 2493,Innings 1,5,Travis Head,Out,12,30,1,1,40.00,Australia
+India VS Australia,Test # 2493,Innings 1,6,Peter Handscomb,Not Out,72,142,9,0,50.70,Australia
+India VS Australia,Test # 2493,Innings 1,7,Alex Carey,Out,0,5,0,0,0.00,Australia
+India VS Australia,Test # 2493,Innings 1,8,Pat Cummins,Out,33,59,3,2,55.93,Australia
+India VS Australia,Test # 2493,Innings 1,9,Todd Murphy,Out,0,4,0,0,0.00,Australia
+India VS Australia,Test # 2493,Innings 1,10,Nathan Lyon,Out,10,26,2,0,38.46,Australia
+India VS Australia,Test # 2493,Innings 1,11,Matthew Kuhnemann,Out,6,12,0,0,50.00,Australia
+India VS Australia,Test # 2493,Innings 2,1,Rohit Sharma,Out,32,69,2,0,46.37,India
+India VS Australia,Test # 2493,Innings 2,2,KL Rahul,Out,17,41,0,1,41.46,India
+India VS Australia,Test # 2493,Innings 2,3,Cheteshwar Pujara,Out,0,7,0,0,0.00,India
+India VS Australia,Test # 2493,Innings 2,4,Virat Kohli,Out,44,84,4,0,52.38,India
+India VS Australia,Test # 2493,Innings 2,5,Shreyas Iyer,Out,4,15,0,0,26.66,India
+India VS Australia,Test # 2493,Innings 2,6,Ravindra Jadeja,Out,26,74,4,0,35.13,India
+India VS Australia,Test # 2493,Innings 2,7,Srikar Bharat,Out,6,12,1,0,50.00,India
+India VS Australia,Test # 2493,Innings 2,8,Axar Patel,Out,74,115,9,3,64.34,India
+India VS Australia,Test # 2493,Innings 2,9,Ravichandran Ashwin,Out,37,71,5,0,52.11,India
+India VS Australia,Test # 2493,Innings 2,10,Mohammed Shami,Out,2,9,0,0,22.22,India
+India VS Australia,Test # 2493,Innings 2,11,Mohammed Siraj,Not Out,1,4,0,0,25.00,India
+New Zealand VS England,Test # 2494,Innings 1,1,Zak Crawley,Out,2,12,0,0,16.66,England
+New Zealand VS England,Test # 2494,Innings 1,2,Ben Duckett,Out,9,21,0,0,42.85,England
+New Zealand VS England,Test # 2494,Innings 1,3,Ollie Pope,Out,10,6,2,0,166.66,England
+New Zealand VS England,Test # 2494,Innings 1,4,Joe Root,Not Out,153,224,10,3,68.30,England
+New Zealand VS England,Test # 2494,Innings 1,5,Harry Brook,Out,186,176,24,5,105.68,England
+New Zealand VS England,Test # 2494,Innings 1,6,Ben Stokes,Out,27,28,5,0,96.42,England
+New Zealand VS England,Test # 2494,Innings 1,7,Ben Foakes,Out,0,5,0,0,0.00,England
+New Zealand VS England,Test # 2494,Innings 1,8,Stuart Broad,Out,14,17,2,0,82.35,England
+New Zealand VS England,Test # 2494,Innings 1,9,Ollie Robinson,Out,18,29,1,0,62.06,England
+New Zealand VS England,Test # 2494,Innings 1,10,Jack Leach,Not Out,6,5,1,0,120.00,England
+New Zealand VS England,Test # 2494,Innings 2,1,Tom Latham,Out,35,76,3,1,46.05,New Zealand
+New Zealand VS England,Test # 2494,Innings 2,2,Devon Conway,Out,0,3,0,0,0.00,New Zealand
+New Zealand VS England,Test # 2494,Innings 2,3,Kane Williamson,Out,4,5,0,0,80.00,New Zealand
+New Zealand VS England,Test # 2494,Innings 2,4,Will Young,Out,2,9,0,0,22.22,New Zealand
+New Zealand VS England,Test # 2494,Innings 2,5,Henry Nicholls,Out,30,38,5,0,78.94,New Zealand
+New Zealand VS England,Test # 2494,Innings 2,6,Daryl Mitchell,Out,13,39,1,0,33.33,New Zealand
+New Zealand VS England,Test # 2494,Innings 2,7,Tom Blundell,Out,38,79,5,0,48.10,New Zealand
+New Zealand VS England,Test # 2494,Innings 2,8,Michael Bracewell,Out,6,9,1,0,66.66,New Zealand
+New Zealand VS England,Test # 2494,Innings 2,9,Tim Southee,Out,73,49,5,6,148.97,New Zealand
+New Zealand VS England,Test # 2494,Innings 2,10,Matt Henry,Out,6,10,1,0,60.00,New Zealand
+New Zealand VS England,Test # 2494,Innings 2,11,Neil Wagner,Not Out,0,5,0,0,0.00,New Zealand
+South Africa VS West Indies,Test # 2495,Innings 1,1,Dean Elgar,Out,71,118,11,0,60.16,South Africa
+South Africa VS West Indies,Test # 2495,Innings 1,2,Aiden Markram,Out,115,174,18,0,66.09,South Africa
+South Africa VS West Indies,Test # 2495,Innings 1,3,Tony de Zorzi,Out,28,69,4,0,40.57,South Africa
+South Africa VS West Indies,Test # 2495,Innings 1,4,Temba Bavuma,Out,0,2,0,0,0.00,South Africa
+South Africa VS West Indies,Test # 2495,Innings 1,5,Keegan Petersen,Out,14,50,1,0,28.00,South Africa
+South Africa VS West Indies,Test # 2495,Innings 1,6,Heinrich Klaasen,Out,20,22,4,0,90.90,South Africa
+South Africa VS West Indies,Test # 2495,Innings 1,7,Senuran Muthusamy,Out,3,13,0,0,23.07,South Africa
+South Africa VS West Indies,Test # 2495,Innings 1,8,Marco Jansen,Not Out,23,43,4,0,53.48,South Africa
+South Africa VS West Indies,Test # 2495,Innings 1,9,Kagiso Rabada,Out,8,15,2,0,53.33,South Africa
+South Africa VS West Indies,Test # 2495,Innings 1,10,Gerald Coetzee,Out,17,12,3,0,141.66,South Africa
+South Africa VS West Indies,Test # 2495,Innings 1,11,Anrich Nortje,Out,14,11,3,0,127.27,South Africa
+South Africa VS West Indies,Test # 2495,Innings 2,1,Kraigg Brathwaite,Out,11,25,1,0,44.00,West Indies
+South Africa VS West Indies,Test # 2495,Innings 2,2,Tagenarine Chanderpaul,Out,22,48,4,0,45.83,West Indies
+South Africa VS West Indies,Test # 2495,Innings 2,3,Raymon Reifer,Out,62,143,7,0,43.35,West Indies
+South Africa VS West Indies,Test # 2495,Innings 2,4,Jermaine Blackwood,Out,37,73,6,0,50.68,West Indies
+South Africa VS West Indies,Test # 2495,Innings 2,5,Roston Chase,Out,22,56,2,0,39.28,West Indies
+South Africa VS West Indies,Test # 2495,Innings 2,6,Kyle Mayers,Out,18,22,2,1,81.81,West Indies
+South Africa VS West Indies,Test # 2495,Innings 2,7,Joshua Da Silva,Out,4,7,0,0,57.14,West Indies
+South Africa VS West Indies,Test # 2495,Innings 2,8,Jason Holder,Out,0,3,0,0,0.00,West Indies
+South Africa VS West Indies,Test # 2495,Innings 2,9,Alzarri Joseph,Out,4,5,1,0,80.00,West Indies
+South Africa VS West Indies,Test # 2495,Innings 2,10,Kemar Roach,Not Out,4,19,0,0,21.05,West Indies
+South Africa VS West Indies,Test # 2495,Innings 2,11,Shannon Gabriel,Out,7,16,0,1,43.75,West Indies
+India VS Australia,Test # 2496,Innings 1,1,Rohit Sharma,Out,12,23,3,0,52.17,India
+India VS Australia,Test # 2496,Innings 1,2,Shubman Gill,Out,21,18,3,0,116.66,India
+India VS Australia,Test # 2496,Innings 1,3,Cheteshwar Pujara,Out,1,4,0,0,25.00,India
+India VS Australia,Test # 2496,Innings 1,4,Virat Kohli,Out,22,52,2,0,42.30,India
+India VS Australia,Test # 2496,Innings 1,5,Ravindra Jadeja,Out,4,9,0,0,44.44,India
+India VS Australia,Test # 2496,Innings 1,6,Shreyas Iyer,Out,0,2,0,0,0.00,India
+India VS Australia,Test # 2496,Innings 1,7,Srikar Bharat,Out,17,30,1,1,56.66,India
+India VS Australia,Test # 2496,Innings 1,8,Axar Patel,Not Out,12,33,1,0,36.36,India
+India VS Australia,Test # 2496,Innings 1,9,Ravichandran Ashwin,Out,3,12,0,0,25.00,India
+India VS Australia,Test # 2496,Innings 1,10,Umesh Yadav,Out,17,13,1,2,130.76,India
+India VS Australia,Test # 2496,Innings 1,11,Mohammed Siraj,Out,0,4,0,0,0.00,India
+India VS Australia,Test # 2496,Innings 2,1,Travis Head,Out,9,6,1,0,150.00,Australia
+India VS Australia,Test # 2496,Innings 2,2,Usman Khawaja,Out,60,147,4,0,40.81,Australia
+India VS Australia,Test # 2496,Innings 2,3,Marnus Labuschagne,Out,31,91,1,0,34.06,Australia
+India VS Australia,Test # 2496,Innings 2,4,Steven Smith,Out,26,38,4,0,68.42,Australia
+India VS Australia,Test # 2496,Innings 2,5,Peter Handscomb,Out,19,98,1,0,19.38,Australia
+India VS Australia,Test # 2496,Innings 2,6,Cameron Green,Out,21,57,2,0,36.84,Australia
+India VS Australia,Test # 2496,Innings 2,7,Alex Carey,Out,3,7,0,0,42.85,Australia
+India VS Australia,Test # 2496,Innings 2,8,Mitchell Starc,Out,1,3,0,0,33.33,Australia
+India VS Australia,Test # 2496,Innings 2,9,Nathan Lyon,Out,5,8,1,0,62.50,Australia
+India VS Australia,Test # 2496,Innings 2,10,Todd Murphy,Out,0,6,0,0,0.00,Australia
+India VS Australia,Test # 2496,Innings 2,11,Matthew Kuhnemann,Not Out,0,3,0,0,0.00,Australia
+South Africa VS West Indies,Test # 2497,Innings 1,1,Dean Elgar,Out,42,54,7,0,77.77,South Africa
+South Africa VS West Indies,Test # 2497,Innings 1,2,Aiden Markram,Out,96,139,17,0,69.06,South Africa
+South Africa VS West Indies,Test # 2497,Innings 1,3,Tony de Zorzi,Out,85,155,11,0,54.83,South Africa
+South Africa VS West Indies,Test # 2497,Innings 1,4,Temba Bavuma,Out,28,64,3,0,43.75,South Africa
+South Africa VS West Indies,Test # 2497,Innings 1,5,Ryan Rickelton,Out,22,49,3,0,44.89,South Africa
+South Africa VS West Indies,Test # 2497,Innings 1,6,Heinrich Klaasen,Out,17,45,1,0,37.77,South Africa
+South Africa VS West Indies,Test # 2497,Innings 1,7,Wiaan Mulder,Out,12,30,1,0,40.00,South Africa
+South Africa VS West Indies,Test # 2497,Innings 1,8,Simon Harmer,Out,1,5,0,0,20.00,South Africa
+South Africa VS West Indies,Test # 2497,Innings 1,9,Keshav Maharaj,Out,1,7,0,0,14.28,South Africa
+South Africa VS West Indies,Test # 2497,Innings 1,10,Gerald Coetzee,Out,1,4,0,0,25.00,South Africa
+South Africa VS West Indies,Test # 2497,Innings 1,11,Kagiso Rabada,Not Out,6,5,1,0,120.00,South Africa
+South Africa VS West Indies,Test # 2497,Innings 2,1,Kraigg Brathwaite,Out,17,42,3,0,40.47,West Indies
+South Africa VS West Indies,Test # 2497,Innings 2,2,Tagenarine Chanderpaul,Out,1,8,0,0,12.50,West Indies
+South Africa VS West Indies,Test # 2497,Innings 2,3,Raymon Reifer,Out,15,34,3,0,44.11,West Indies
+South Africa VS West Indies,Test # 2497,Innings 2,4,Jermaine Blackwood,Out,6,6,1,0,100.00,West Indies
+South Africa VS West Indies,Test # 2497,Innings 2,5,Roston Chase,Out,28,53,3,1,52.83,West Indies
+South Africa VS West Indies,Test # 2497,Innings 2,6,Kyle Mayers,Out,29,83,4,0,34.93,West Indies
+South Africa VS West Indies,Test # 2497,Innings 2,7,Joshua Da Silva,Out,26,63,4,0,41.26,West Indies
+South Africa VS West Indies,Test # 2497,Innings 2,8,Jason Holder,Not Out,81,117,8,4,69.23,West Indies
+South Africa VS West Indies,Test # 2497,Innings 2,9,Alzarri Joseph,Out,4,7,1,0,57.14,West Indies
+South Africa VS West Indies,Test # 2497,Innings 2,10,Kemar Roach,Out,13,27,1,1,48.14,West Indies
+South Africa VS West Indies,Test # 2497,Innings 2,11,Gudakesh Motie,Out,17,40,3,0,42.50,West Indies
+New Zealand VS Sri Lanka,Test # 2498,Innings 1,1,Oshada Fernando,Out,13,31,2,0,41.93,Sri Lanka
+New Zealand VS Sri Lanka,Test # 2498,Innings 1,2,Dimuth Karunaratne,Out,50,87,7,0,57.47,Sri Lanka
+New Zealand VS Sri Lanka,Test # 2498,Innings 1,3,Kusal Mendis,Out,87,83,16,0,104.81,Sri Lanka
+New Zealand VS Sri Lanka,Test # 2498,Innings 1,4,Angelo Mathews,Out,47,98,6,1,47.95,Sri Lanka
+New Zealand VS Sri Lanka,Test # 2498,Innings 1,5,Dinesh Chandimal,Out,39,64,6,0,60.93,Sri Lanka
+New Zealand VS Sri Lanka,Test # 2498,Innings 1,6,Dhananjaya de Silva,Out,46,59,5,1,77.96,Sri Lanka
+New Zealand VS Sri Lanka,Test # 2498,Innings 1,7,Niroshan Dickwella,Out,7,13,1,0,53.84,Sri Lanka
+New Zealand VS Sri Lanka,Test # 2498,Innings 1,8,Kasun Rajitha,Out,22,39,4,0,56.41,Sri Lanka
+New Zealand VS Sri Lanka,Test # 2498,Innings 1,9,Prabath Jayasuriya,Out,13,40,0,0,32.50,Sri Lanka
+New Zealand VS Sri Lanka,Test # 2498,Innings 1,10,Lahiru Kumara,Not Out,13,32,2,0,40.62,Sri Lanka
+New Zealand VS Sri Lanka,Test # 2498,Innings 1,11,Asitha Fernando,Out,10,10,2,0,100.00,Sri Lanka
+New Zealand VS Sri Lanka,Test # 2498,Innings 2,1,Tom Latham,Out,67,144,7,0,46.52,New Zealand
+New Zealand VS Sri Lanka,Test # 2498,Innings 2,2,Devon Conway,Out,30,88,2,0,34.09,New Zealand
+New Zealand VS Sri Lanka,Test # 2498,Innings 2,3,Kane Williamson,Out,1,11,0,0,9.09,New Zealand
+New Zealand VS Sri Lanka,Test # 2498,Innings 2,4,Henry Nicholls,Out,2,6,0,0,33.33,New Zealand
+New Zealand VS Sri Lanka,Test # 2498,Innings 2,5,Daryl Mitchell,Out,102,193,6,2,52.84,New Zealand
+New Zealand VS Sri Lanka,Test # 2498,Innings 2,6,Tom Blundell,Out,7,22,0,0,31.81,New Zealand
+New Zealand VS Sri Lanka,Test # 2498,Innings 2,7,Michael Bracewell,Out,25,57,2,0,43.85,New Zealand
+New Zealand VS Sri Lanka,Test # 2498,Innings 2,8,Tim Southee,Out,25,20,3,1,125.00,New Zealand
+New Zealand VS Sri Lanka,Test # 2498,Innings 2,9,Matt Henry,Out,72,75,10,3,96.00,New Zealand
+New Zealand VS Sri Lanka,Test # 2498,Innings 2,10,Neil Wagner,Out,27,24,1,3,112.50,New Zealand
+New Zealand VS Sri Lanka,Test # 2498,Innings 2,11,Blair Tickner,Not Out,2,5,0,0,40.00,New Zealand
+India VS Australia,Test # 2499,Innings 1,1,Travis Head,Out,32,44,7,0,72.72,Australia
+India VS Australia,Test # 2499,Innings 1,2,Usman Khawaja,Out,180,422,21,0,42.65,Australia
+India VS Australia,Test # 2499,Innings 1,3,Marnus Labuschagne,Out,3,20,0,0,15.00,Australia
+India VS Australia,Test # 2499,Innings 1,4,Steven Smith,Out,38,135,3,0,28.14,Australia
+India VS Australia,Test # 2499,Innings 1,5,Peter Handscomb,Out,17,27,3,0,62.96,Australia
+India VS Australia,Test # 2499,Innings 1,6,Cameron Green,Out,114,170,18,0,67.05,Australia
+India VS Australia,Test # 2499,Innings 1,7,Alex Carey,Out,0,4,0,0,0.00,Australia
+India VS Australia,Test # 2499,Innings 1,8,Mitchell Starc,Out,6,20,0,0,30.00,Australia
+India VS Australia,Test # 2499,Innings 1,9,Nathan Lyon,Out,34,96,6,0,35.41,Australia
+India VS Australia,Test # 2499,Innings 1,10,Todd Murphy,Out,41,61,5,0,67.21,Australia
+India VS Australia,Test # 2499,Innings 1,11,Matthew Kuhnemann,Not Out,0,7,0,0,0.00,Australia
+India VS Australia,Test # 2499,Innings 2,1,Rohit Sharma,Out,35,58,3,1,60.34,India
+India VS Australia,Test # 2499,Innings 2,2,Shubman Gill,Out,128,235,12,1,54.46,India
+India VS Australia,Test # 2499,Innings 2,3,Cheteshwar Pujara,Out,42,121,3,0,34.71,India
+India VS Australia,Test # 2499,Innings 2,4,Virat Kohli,Out,186,364,15,0,51.09,India
+India VS Australia,Test # 2499,Innings 2,5,Ravindra Jadeja,Out,28,84,2,1,33.33,India
+India VS Australia,Test # 2499,Innings 2,6,Srikar Bharat,Out,44,88,2,3,50.00,India
+India VS Australia,Test # 2499,Innings 2,7,Axar Patel,Out,79,113,5,4,69.91,India
+India VS Australia,Test # 2499,Innings 2,8,Ravichandran Ashwin,Out,7,12,1,0,58.33,India
+India VS Australia,Test # 2499,Innings 2,9,Umesh Yadav,Out,0,0,0,0,-,India
+India VS Australia,Test # 2499,Innings 2,10,Mohammed Shami,Not Out,0,2,0,0,0.00,India
+India VS Australia,Test # 2499,Innings 2,11,Shreyas Iyer,Not Out,-,-,-,-,-,India
+New Zealand VS Sri Lanka,Test # 2500,Innings 1,1,Tom Latham,Out,21,73,0,0,28.76,New Zealand
+New Zealand VS Sri Lanka,Test # 2500,Innings 1,2,Devon Conway,Out,78,108,13,0,72.22,New Zealand
+New Zealand VS Sri Lanka,Test # 2500,Innings 1,3,Kane Williamson,Out,215,296,23,2,72.63,New Zealand
+New Zealand VS Sri Lanka,Test # 2500,Innings 1,4,Henry Nicholls,Not Out,200,240,15,4,83.33,New Zealand
+New Zealand VS Sri Lanka,Test # 2500,Innings 1,5,Daryl Mitchell,Out,17,12,1,1,141.66,New Zealand
+New Zealand VS Sri Lanka,Test # 2500,Innings 1,6,Tom Blundell,Not Out,17,17,2,0,100.00,New Zealand
+New Zealand VS Sri Lanka,Test # 2500,Innings 2,1,Oshada Fernando,Out,6,32,0,0,18.75,Sri Lanka
+New Zealand VS Sri Lanka,Test # 2500,Innings 2,2,Dimuth Karunaratne,Out,89,188,9,0,47.34,Sri Lanka
+New Zealand VS Sri Lanka,Test # 2500,Innings 2,3,Kusal Mendis,Out,0,10,0,0,0.00,Sri Lanka
+New Zealand VS Sri Lanka,Test # 2500,Innings 2,4,Prabath Jayasuriya,Out,4,17,1,0,23.52,Sri Lanka
+New Zealand VS Sri Lanka,Test # 2500,Innings 2,5,Angelo Mathews,Out,1,10,0,0,10.00,Sri Lanka
+New Zealand VS Sri Lanka,Test # 2500,Innings 2,6,Dinesh Chandimal,Out,37,92,4,0,40.21,Sri Lanka
+New Zealand VS Sri Lanka,Test # 2500,Innings 2,7,Dhananjaya de Silva,Out,0,6,0,0,0.00,Sri Lanka
+New Zealand VS Sri Lanka,Test # 2500,Innings 2,8,Nishan Madushka,Out,19,31,3,0,61.29,Sri Lanka
+New Zealand VS Sri Lanka,Test # 2500,Innings 2,9,Kasun Rajitha,Out,0,9,0,0,0.00,Sri Lanka
+New Zealand VS Sri Lanka,Test # 2500,Innings 2,10,Lahiru Kumara,Not Out,1,4,0,0,25.00,Sri Lanka
+New Zealand VS Sri Lanka,Test # 2500,Innings 2,11,Asitha Fernando,Out,0,3,0,0,0.00,Sri Lanka
+Bangladesh VS Ireland,Test # 2501,Innings 1,1,James McCollum,Out,15,34,1,0,44.11,Ireland
+Bangladesh VS Ireland,Test # 2501,Innings 1,2,Murray Commins,Out,5,10,1,0,50.00,Ireland
+Bangladesh VS Ireland,Test # 2501,Innings 1,3,Andy Balbirnie,Out,16,50,0,0,32.00,Ireland
+Bangladesh VS Ireland,Test # 2501,Innings 1,4,Harry Tector,Out,50,92,6,1,54.34,Ireland
+Bangladesh VS Ireland,Test # 2501,Innings 1,5,Curtis Campher,Out,34,73,6,0,46.57,Ireland
+Bangladesh VS Ireland,Test # 2501,Innings 1,6,Peter Moor,Out,1,8,0,0,12.50,Ireland
+Bangladesh VS Ireland,Test # 2501,Innings 1,7,Lorcan Tucker,Out,37,74,3,0,50.00,Ireland
+Bangladesh VS Ireland,Test # 2501,Innings 1,8,Andy McBrine,Out,19,55,1,1,34.54,Ireland
+Bangladesh VS Ireland,Test # 2501,Innings 1,9,Mark Adair,Out,32,52,5,1,61.53,Ireland
+Bangladesh VS Ireland,Test # 2501,Innings 1,10,Graham Hume,Out,2,16,0,0,12.50,Ireland
+Bangladesh VS Ireland,Test # 2501,Innings 1,11,Ben White,Not Out,0,3,0,0,0.00,Ireland
+Bangladesh VS Ireland,Test # 2501,Innings 2,1,Tamim Iqbal,Out,21,36,2,1,58.33,Bangladesh
+Bangladesh VS Ireland,Test # 2501,Innings 2,2,Najmul Hossain Shanto,Out,0,1,0,0,0.00,Bangladesh
+Bangladesh VS Ireland,Test # 2501,Innings 2,3,Mominul Haque,Out,17,34,4,0,50.00,Bangladesh
+Bangladesh VS Ireland,Test # 2501,Innings 2,4,Mushfiqur Rahim,Out,126,166,15,1,75.90,Bangladesh
+Bangladesh VS Ireland,Test # 2501,Innings 2,5,Shakib Al Hasan,Out,87,94,14,0,92.55,Bangladesh
+Bangladesh VS Ireland,Test # 2501,Innings 2,6,Litton Das,Out,43,41,8,0,104.87,Bangladesh
+Bangladesh VS Ireland,Test # 2501,Innings 2,7,Mehidy Hasan Miraz,Out,55,80,6,2,68.75,Bangladesh
+Bangladesh VS Ireland,Test # 2501,Innings 2,8,Taijul Islam,Out,4,12,0,0,33.33,Bangladesh
+Bangladesh VS Ireland,Test # 2501,Innings 2,9,Shoriful Islam,Out,4,7,1,0,57.14,Bangladesh
+Bangladesh VS Ireland,Test # 2501,Innings 2,10,Ebadot Hossain,Out,0,3,0,0,0.00,Bangladesh
+Bangladesh VS Ireland,Test # 2501,Innings 2,11,Khaled Ahmed,Not Out,4,11,1,0,36.36,Bangladesh
+Sri Lanka VS Ireland,Test # 2502,Innings 1,1,Nishan Madushka,Out,29,48,4,0,60.41,Sri Lanka
+Sri Lanka VS Ireland,Test # 2502,Innings 1,2,Dimuth Karunaratne,Out,179,235,15,0,76.17,Sri Lanka
+Sri Lanka VS Ireland,Test # 2502,Innings 1,3,Kusal Mendis,Out,140,193,18,1,72.53,Sri Lanka
+Sri Lanka VS Ireland,Test # 2502,Innings 1,4,Angelo Mathews,Out,0,3,0,0,0.00,Sri Lanka
+Sri Lanka VS Ireland,Test # 2502,Innings 1,5,Dinesh Chandimal,Not Out,102,155,12,0,65.80,Sri Lanka
+Sri Lanka VS Ireland,Test # 2502,Innings 1,6,Prabath Jayasuriya,Out,16,23,3,0,69.56,Sri Lanka
+Sri Lanka VS Ireland,Test # 2502,Innings 1,7,Dhananjaya de Silva,Out,12,16,3,0,75.00,Sri Lanka
+Sri Lanka VS Ireland,Test # 2502,Innings 1,8,Sadeera Samarawickrama,Not Out,104,114,11,0,91.22,Sri Lanka
+Sri Lanka VS Ireland,Test # 2502,Innings 2,1,James McCollum,Out,35,85,5,0,41.17,Ireland
+Sri Lanka VS Ireland,Test # 2502,Innings 2,2,Murray Commins,Out,0,1,0,0,0.00,Ireland
+Sri Lanka VS Ireland,Test # 2502,Innings 2,3,Andy Balbirnie,Out,4,4,1,0,100.00,Ireland
+Sri Lanka VS Ireland,Test # 2502,Innings 2,4,Harry Tector,Out,34,59,2,1,57.62,Ireland
+Sri Lanka VS Ireland,Test # 2502,Innings 2,5,Curtis Campher,Out,0,2,0,0,0.00,Ireland
+Sri Lanka VS Ireland,Test # 2502,Innings 2,6,Peter Moor,Out,14,29,2,0,48.27,Ireland
+Sri Lanka VS Ireland,Test # 2502,Innings 2,7,Lorcan Tucker,Out,45,73,7,0,61.64,Ireland
+Sri Lanka VS Ireland,Test # 2502,Innings 2,8,George Dockrell,Out,2,24,0,0,8.33,Ireland
+Sri Lanka VS Ireland,Test # 2502,Innings 2,9,Andy McBrine,Out,7,35,1,0,20.00,Ireland
+Sri Lanka VS Ireland,Test # 2502,Innings 2,10,Mark Adair,Out,0,2,0,0,0.00,Ireland
+Sri Lanka VS Ireland,Test # 2502,Innings 2,11,Ben White,Not Out,0,3,0,0,0.00,Ireland
+Sri Lanka VS Ireland,Test # 2503,Innings 1,1,James McCollum,Out,10,28,2,0,35.71,Ireland
+Sri Lanka VS Ireland,Test # 2503,Innings 1,2,Peter Moor,Out,5,7,1,0,71.42,Ireland
+Sri Lanka VS Ireland,Test # 2503,Innings 1,3,Andy Balbirnie,Out,95,163,14,0,58.28,Ireland
+Sri Lanka VS Ireland,Test # 2503,Innings 1,4,Harry Tector,Out,18,44,3,0,40.90,Ireland
+Sri Lanka VS Ireland,Test # 2503,Innings 1,5,Paul Stirling,Out,103,181,9,4,56.90,Ireland
+Sri Lanka VS Ireland,Test # 2503,Innings 1,6,Lorcan Tucker,Out,80,106,10,0,75.47,Ireland
+Sri Lanka VS Ireland,Test # 2503,Innings 1,7,Curtis Campher,Out,111,229,15,2,48.47,Ireland
+Sri Lanka VS Ireland,Test # 2503,Innings 1,8,Andy McBrine,Out,35,59,3,1,59.32,Ireland
+Sri Lanka VS Ireland,Test # 2503,Innings 1,9,Graham Hume,Out,6,23,1,0,26.08,Ireland
+Sri Lanka VS Ireland,Test # 2503,Innings 1,10,Matthew Humphreys,Out,7,23,1,0,30.43,Ireland
+Sri Lanka VS Ireland,Test # 2503,Innings 1,11,Ben White,Not Out,0,11,0,0,0.00,Ireland
+Sri Lanka VS Ireland,Test # 2503,Innings 2,1,Nishan Madushka,Out,205,339,22,1,60.47,Sri Lanka
+Sri Lanka VS Ireland,Test # 2503,Innings 2,2,Dimuth Karunaratne,Out,115,133,15,0,86.46,Sri Lanka
+Sri Lanka VS Ireland,Test # 2503,Innings 2,3,Kusal Mendis,Out,245,291,18,11,84.19,Sri Lanka
+Sri Lanka VS Ireland,Test # 2503,Innings 2,4,Angelo Mathews,Not Out,100,114,6,4,87.71,Sri Lanka
+Sri Lanka VS Ireland,Test # 2503,Innings 2,5,Dinesh Chandimal,Not Out,13,14,2,0,92.85,Sri Lanka
+Sri Lanka VS Ireland,Test # 2503,Innings 2,6,Dhananjaya de Silva,Not Out,12,17,2,0,70.58,Sri Lanka
+England VS Ireland,Test # 2504,Innings 1,1,James McCollum,Out,36,108,5,0,33.33,Ireland
+England VS Ireland,Test # 2504,Innings 1,2,Peter Moor,Out,10,12,2,0,83.33,Ireland
+England VS Ireland,Test # 2504,Innings 1,3,Andy Balbirnie,Out,0,5,0,0,0.00,Ireland
+England VS Ireland,Test # 2504,Innings 1,4,Harry Tector,Out,0,2,0,0,0.00,Ireland
+England VS Ireland,Test # 2504,Innings 1,5,Paul Stirling,Out,30,35,5,0,85.71,Ireland
+England VS Ireland,Test # 2504,Innings 1,6,Lorcan Tucker,Out,18,33,2,0,54.54,Ireland
+England VS Ireland,Test # 2504,Innings 1,7,Curtis Campher,Out,33,79,6,0,41.77,Ireland
+England VS Ireland,Test # 2504,Innings 1,8,Andy McBrine,Out,19,23,3,0,82.60,Ireland
+England VS Ireland,Test # 2504,Innings 1,9,Mark Adair,Out,14,32,2,0,43.75,Ireland
+England VS Ireland,Test # 2504,Innings 1,10,Fionn Hand,Out,1,7,0,0,14.28,Ireland
+England VS Ireland,Test # 2504,Innings 1,11,Graham Hume,Not Out,0,3,0,0,0.00,Ireland
+England VS Ireland,Test # 2504,Innings 2,1,Zak Crawley,Out,56,45,11,0,124.44,England
+England VS Ireland,Test # 2504,Innings 2,2,Ben Duckett,Out,182,178,24,1,102.24,England
+England VS Ireland,Test # 2504,Innings 2,3,Ollie Pope,Out,205,208,22,3,98.55,England
+England VS Ireland,Test # 2504,Innings 2,4,Joe Root,Out,56,59,4,1,94.91,England
+England VS Ireland,Test # 2504,Innings 2,5,Harry Brook,Not Out,9,7,1,0,128.57,England
+Australia VS India,Test # 2505,Innings 1,1,David Warner,Out,43,60,8,0,71.66,Australia
+Australia VS India,Test # 2505,Innings 1,2,Usman Khawaja,Out,0,10,0,0,0.00,Australia
+Australia VS India,Test # 2505,Innings 1,3,Marnus Labuschagne,Out,26,62,3,0,41.93,Australia
+Australia VS India,Test # 2505,Innings 1,4,Steven Smith,Out,121,268,19,0,45.14,Australia
+Australia VS India,Test # 2505,Innings 1,5,Travis Head,Out,163,174,25,1,93.67,Australia
+Australia VS India,Test # 2505,Innings 1,6,Cameron Green,Out,6,7,1,0,85.71,Australia
+Australia VS India,Test # 2505,Innings 1,7,Alex Carey,Out,48,69,7,1,69.56,Australia
+Australia VS India,Test # 2505,Innings 1,8,Mitchell Starc,Out,5,20,0,0,25.00,Australia
+Australia VS India,Test # 2505,Innings 1,9,Pat Cummins,Out,9,34,0,0,26.47,Australia
+Australia VS India,Test # 2505,Innings 1,10,Nathan Lyon,Out,9,25,1,0,36.00,Australia
+Australia VS India,Test # 2505,Innings 1,11,Scott Boland,Not Out,1,7,0,0,14.28,Australia
+Australia VS India,Test # 2505,Innings 2,1,Rohit Sharma,Out,15,26,2,0,57.69,India
+Australia VS India,Test # 2505,Innings 2,2,Shubman Gill,Out,13,15,2,0,86.66,India
+Australia VS India,Test # 2505,Innings 2,3,Cheteshwar Pujara,Out,14,25,2,0,56.00,India
+Australia VS India,Test # 2505,Innings 2,4,Virat Kohli,Out,14,31,2,0,45.16,India
+Australia VS India,Test # 2505,Innings 2,5,Ajinkya Rahane,Out,89,129,11,1,68.99,India
+Australia VS India,Test # 2505,Innings 2,6,Ravindra Jadeja,Out,48,51,7,1,94.11,India
+Australia VS India,Test # 2505,Innings 2,7,Srikar Bharat,Out,5,15,0,0,33.33,India
+Australia VS India,Test # 2505,Innings 2,8,Shardul Thakur,Out,51,109,6,0,46.78,India
+Australia VS India,Test # 2505,Innings 2,9,Umesh Yadav,Out,5,11,1,0,45.45,India
+Australia VS India,Test # 2505,Innings 2,10,Mohammed Shami,Out,13,11,2,0,118.18,India
+Australia VS India,Test # 2505,Innings 2,11,Mohammed Siraj,Not Out,0,3,0,0,0.00,India
+Bangladesh VS Afghanistan,Test # 2506,Innings 1,1,Mahmudul Hasan Joy,Out,76,137,9,0,55.47,Bangladesh
+Bangladesh VS Afghanistan,Test # 2506,Innings 1,2,Zakir Hasan,Out,1,2,0,0,50.00,Bangladesh
+Bangladesh VS Afghanistan,Test # 2506,Innings 1,3,Najmul Hossain Shanto,Out,146,175,23,2,83.42,Bangladesh
+Bangladesh VS Afghanistan,Test # 2506,Innings 1,4,Mominul Haque,Out,15,25,1,1,60.00,Bangladesh
+Bangladesh VS Afghanistan,Test # 2506,Innings 1,5,Mushfiqur Rahim,Out,47,76,4,0,61.84,Bangladesh
+Bangladesh VS Afghanistan,Test # 2506,Innings 1,6,Litton Das,Out,9,15,0,1,60.00,Bangladesh
+Bangladesh VS Afghanistan,Test # 2506,Innings 1,7,Mehidy Hasan Miraz,Out,48,80,8,0,60.00,Bangladesh
+Bangladesh VS Afghanistan,Test # 2506,Innings 1,8,Taskin Ahmed,Out,2,7,0,0,28.57,Bangladesh
+Bangladesh VS Afghanistan,Test # 2506,Innings 1,9,Taijul Islam,Out,0,2,0,0,0.00,Bangladesh
+Bangladesh VS Afghanistan,Test # 2506,Innings 1,10,Shoriful Islam,Out,6,11,1,0,54.54,Bangladesh
+Bangladesh VS Afghanistan,Test # 2506,Innings 1,11,Ebadot Hossain,Not Out,0,2,0,0,0.00,Bangladesh
+Bangladesh VS Afghanistan,Test # 2506,Innings 2,1,Ibrahim Zadran,Out,6,17,1,0,35.29,Afghanistan
+Bangladesh VS Afghanistan,Test # 2506,Innings 2,2,Abdul Malik,Out,17,21,2,0,80.95,Afghanistan
+Bangladesh VS Afghanistan,Test # 2506,Innings 2,3,Rahmat Shah,Out,9,18,2,0,50.00,Afghanistan
+Bangladesh VS Afghanistan,Test # 2506,Innings 2,4,Hashmatullah Shahidi,Out,9,16,1,0,56.25,Afghanistan
+Bangladesh VS Afghanistan,Test # 2506,Innings 2,5,Nasir Jamal,Out,35,43,6,0,81.39,Afghanistan
+Bangladesh VS Afghanistan,Test # 2506,Innings 2,6,Afsar Zazai,Out,36,40,6,0,90.00,Afghanistan
+Bangladesh VS Afghanistan,Test # 2506,Innings 2,7,Karim Janat,Out,23,47,2,0,48.93,Afghanistan
+Bangladesh VS Afghanistan,Test # 2506,Innings 2,8,Amir Hamza,Out,6,15,1,0,40.00,Afghanistan
+Bangladesh VS Afghanistan,Test # 2506,Innings 2,9,Yamin Ahmadzai,Out,0,3,0,0,0.00,Afghanistan
+Bangladesh VS Afghanistan,Test # 2506,Innings 2,10,Nijat Masood,Out,0,16,0,0,0.00,Afghanistan
+Bangladesh VS Afghanistan,Test # 2506,Innings 2,11,Zahir Khan,Not Out,0,2,0,0,0.00,Afghanistan
+England VS Australia,Test # 2507,Innings 1,1,Zak Crawley,Out,61,73,7,0,83.56,England
+England VS Australia,Test # 2507,Innings 1,2,Ben Duckett,Out,12,10,2,0,120.00,England
+England VS Australia,Test # 2507,Innings 1,3,Ollie Pope,Out,31,44,2,0,70.45,England
+England VS Australia,Test # 2507,Innings 1,4,Joe Root,Not Out,118,152,7,4,77.63,England
+England VS Australia,Test # 2507,Innings 1,5,Harry Brook,Out,32,37,4,0,86.48,England
+England VS Australia,Test # 2507,Innings 1,6,Ben Stokes,Out,1,8,0,0,12.50,England
+England VS Australia,Test # 2507,Innings 1,7,Jonny Bairstow,Out,78,78,12,0,100.00,England
+England VS Australia,Test # 2507,Innings 1,8,Moeen Ali,Out,18,17,2,1,105.88,England
+England VS Australia,Test # 2507,Innings 1,9,Stuart Broad,Out,16,21,2,0,76.19,England
+England VS Australia,Test # 2507,Innings 1,10,Ollie Robinson,Not Out,17,31,2,0,54.83,England
+England VS Australia,Test # 2507,Innings 2,1,David Warner,Out,9,27,2,0,33.33,Australia
+England VS Australia,Test # 2507,Innings 2,2,Usman Khawaja,Out,141,321,14,3,43.92,Australia
+England VS Australia,Test # 2507,Innings 2,3,Marnus Labuschagne,Out,0,1,0,0,0.00,Australia
+England VS Australia,Test # 2507,Innings 2,4,Steven Smith,Out,16,59,0,0,27.11,Australia
+England VS Australia,Test # 2507,Innings 2,5,Travis Head,Out,50,63,8,1,79.36,Australia
+England VS Australia,Test # 2507,Innings 2,6,Cameron Green,Out,38,68,4,1,55.88,Australia
+England VS Australia,Test # 2507,Innings 2,7,Alex Carey,Out,66,99,10,1,66.66,Australia
+England VS Australia,Test # 2507,Innings 2,8,Pat Cummins,Out,38,62,0,3,61.29,Australia
+England VS Australia,Test # 2507,Innings 2,9,Nathan Lyon,Out,1,6,0,0,16.66,Australia
+England VS Australia,Test # 2507,Innings 2,10,Scott Boland,Out,0,5,0,0,0.00,Australia
+England VS Australia,Test # 2507,Innings 2,11,Josh Hazlewood,Not Out,1,1,0,0,100.00,Australia
